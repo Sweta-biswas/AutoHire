@@ -1,11 +1,11 @@
 # AutoHire 🚀  
-An Intelligent Recruitment Platform Using Machine Learning and NLP  
+An Intelligent Recruitment Platform Using Machine Learning 
 
 ## 📌 Overview  
 AutoHire is a web-based recruitment solution designed to revolutionize the hiring process. It leverages advanced machine learning techniques to automate the filtering and evaluation of candidate resumes, offering a faster, fairer, and more data-driven approach to talent acquisition.
 
 ## 🎯 Key Features  
-- 🔍 **Automated Resume Parsing** using Natural Language Processing (NLP)  
+- 🔍 **Automated Resume Parsing** 
 - 🌲 **Random Forest Regression** for accurate candidate suitability scoring  
 - 🧠 **BIRCH Clustering** to group similar candidate profiles dynamically  
 - 🧾 **Skill & Experience-Based Matching** instead of keyword-only filtering  
@@ -15,7 +15,6 @@ AutoHire is a web-based recruitment solution designed to revolutionize the hirin
 ## 🛠️ Technologies Used  
 - Python  
 - Scikit-learn  
-- Natural Language Toolkit (NLTK) / spaCy  
 - Flask or Django (for web interface, if applicable)  
 - Pandas, NumPy  
 
