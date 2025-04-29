@@ -1,0 +1,1943 @@
+{
+    "jobRole": "Frontend Developer",
+    "jobDescription": "Creates responsive web interfaces using modern frameworks.",
+    "jobSkills": ["React.js", "JavaScript", "HTML", "CSS", "TypeScript"],
+    "requiredExperience": "2-4 years",
+    "jobLocation": "Onsite, India, Bangalore",
+    "minSalary": 600000,
+    "maxSalary": 900000,
+    "resumeTitle": "Vikram",
+    "resumeSummary": "Backend specialist with Java and database experience.",
+    "resumeSkills": ["Java", "SQL", "MySQL"],
+    "resumeExperience": [
+      {
+        "role": "Backend Developer",
+        "company": "DataTech",
+        "startDate": "06/2023",
+        "endDate": "Present",
+        "description": "Developed database architectures and RESTful APIs."
+      }
+    ],
+    "resumeEducation": [
+      {
+        "school": "VIT Vellore",
+        "degree": "B.Tech Computer Science",
+        "startDate": "07/2019",
+        "endDate": "06/2023",
+        "description": "Focused on database management and Java programming."
+      }
+    ],
+    "resumeLocation": "Chennai, India",
+    "skillsScore": 0,
+    "experienceScore": 25,
+    "locationScore": 50,
+    "roleSimilarity": 30,
+    "educationScore": 50,
+    "matchScore": 25
+  },
+  {
+    "jobRole": "Data Scientist",
+    "jobDescription": "Analyzes complex datasets to provide business insights.",
+    "jobSkills": ["Python", "R", "Machine Learning", "SQL", "Pandas", "TensorFlow"],
+    "requiredExperience": "5-7 years",
+    "jobLocation": "Remote",
+    "minSalary": 1200000,
+    "maxSalary": 1800000,
+    "resumeTitle": "Arjun",
+    "resumeSummary": "Full-stack web developer with expertise in modern JavaScript frameworks.",
+    "resumeSkills": ["JavaScript", "React.js", "Node.js", "HTML", "CSS"],
+    "resumeExperience": [
+      {
+        "role": "Frontend Developer",
+        "company": "WebSolutions",
+        "startDate": "03/2022",
+        "endDate": "Present",
+        "description": "Developed responsive user interfaces using React."
+      },
+      {
+        "role": "Web Developer",
+        "company": "TechStart",
+        "startDate": "05/2020",
+        "endDate": "02/2022",
+        "description": "Built and maintained client websites."
+      }
+    ],
+    "resumeEducation": [
+      {
+        "school": "Delhi University",
+        "degree": "B.Sc Computer Science",
+        "startDate": "07/2017",
+        "endDate": "06/2020",
+        "description": "Focused on web development technologies."
+      }
+    ],
+    "resumeLocation": "Delhi, India",
+    "skillsScore": 15,
+    "experienceScore": 35,
+    "locationScore": 100,
+    "roleSimilarity": 20,
+    "educationScore": 50,
+    "matchScore": 37
+  },
+  {
+    "jobRole": "DevOps Engineer",
+    "jobDescription": "Manages infrastructure and deployment pipelines.",
+    "jobSkills": ["Docker", "Kubernetes", "AWS", "Jenkins", "CI/CD", "Linux"],
+    "requiredExperience": "2-4 years",
+    "jobLocation": "Onsite, India, Pune",
+    "minSalary": 800000,
+    "maxSalary": 1200000,
+    "resumeTitle": "Priya",
+    "resumeSummary": "Graphic designer with expertise in visual communication.",
+    "resumeSkills": ["Photoshop", "Illustrator", "Figma", "UI/UX"],
+    "resumeExperience": null,
+    "resumeEducation": [
+      {
+        "school": "NIFT Mumbai",
+        "degree": "B.Des Graphic Design",
+        "startDate": "07/2019",
+        "endDate": "06/2023",
+        "description": "Specialized in digital media and visual communication."
+      }
+    ],
+    "resumeLocation": "Mumbai, India",
+    "skillsScore": 0,
+    "experienceScore": 0,
+    "locationScore": 50,
+    "roleSimilarity": 10,
+    "educationScore": 50,
+    "matchScore": 15
+  },
+  {
+    "jobRole": "Mobile App Developer",
+    "jobDescription": "Builds native applications for iOS and Android platforms.",
+    "jobSkills": ["Swift", "Kotlin", "React Native", "Flutter", "Firebase"],
+    "requiredExperience": "2-4 years",
+    "jobLocation": "Remote",
+    "minSalary": 700000,
+    "maxSalary": 1000000,
+    "resumeTitle": "Rohan",
+    "resumeSummary": "Data analyst with experience in reporting and visualization.",
+    "resumeSkills": ["SQL", "Excel", "Tableau", "Python"],
+    "resumeExperience": [
+      {
+        "role": "Data Analyst",
+        "company": "AnalyticsHub",
+        "startDate": "01/2023",
+        "endDate": "Present",
+        "description": "Created dashboards and performed data analysis."
+      }
+    ],
+    "resumeEducation": [
+      {
+        "school": "Symbiosis Pune",
+        "degree": "MBA Business Analytics",
+        "startDate": "07/2021",
+        "endDate": "06/2023",
+        "description": "Focused on business intelligence and data visualization."
+      }
+    ],
+    "resumeLocation": "Kolkata, India",
+    "skillsScore": 15,
+    "experienceScore": 25,
+    "locationScore": 100,
+    "roleSimilarity": 15,
+    "educationScore": 50,
+    "matchScore": 34
+  },
+  {
+    "jobRole": "Blockchain Developer",
+    "jobDescription": "Designs and implements decentralized applications and smart contracts.",
+    "jobSkills": ["Solidity", "Blockchain", "Ethereum", "JavaScript", "Web3.js"],
+    "requiredExperience": "5-7 years",
+    "jobLocation": "Onsite, India, Gurgaon",
+    "minSalary": 1500000,
+    "maxSalary": 2000000,
+    "resumeTitle": "Anjali",
+    "resumeSummary": "Content writer with expertise in technical documentation.",
+    "resumeSkills": ["Content Writing", "SEO", "Technical Writing"],
+    "resumeExperience": [
+      {
+        "role": "Content Specialist",
+        "company": "ContentFirst",
+        "startDate": "07/2022",
+        "endDate": "Present",
+        "description": "Created technical documentation and blog posts."
+      },
+      {
+        "role": "Technical Writer",
+        "company": "DocuTech",
+        "startDate": "03/2021",
+        "endDate": "06/2022",
+        "description": "Wrote user manuals and API documentation."
+      }
+    ],
+    "resumeEducation": [
+      {
+        "school": "Christ University",
+        "degree": "MA English Literature",
+        "startDate": "07/2018",
+        "endDate": "06/2020",
+        "description": "Specialized in technical communication."
+      }
+    ],
+    "resumeLocation": "Bangalore, India",
+    "skillsScore": 0,
+    "experienceScore": 25,
+    "locationScore": 50,
+    "roleSimilarity": 5,
+    "educationScore": 50,
+    "matchScore": 21
+  },
+  {
+    "jobRole": "Network Administrator",
+    "jobDescription": "Manages and maintains computer networks and related infrastructure.",
+    "jobSkills": ["CCNA", "Network Security", "Cisco", "LAN/WAN", "Firewalls"],
+    "requiredExperience": "2-4 years",
+    "jobLocation": "Onsite, India, Hyderabad",
+    "minSalary": 600000,
+    "maxSalary": 900000,
+    "resumeTitle": "Deepak",
+    "resumeSummary": "Marketing specialist with focus on digital campaigns.",
+    "resumeSkills": ["Digital Marketing", "Social Media", "SEO", "Google Analytics"],
+    "resumeExperience": [
+      {
+        "role": "Marketing Associate",
+        "company": "DigiMarketing",
+        "startDate": "08/2021",
+        "endDate": "Present",
+        "description": "Managed digital marketing campaigns and social media presence."
+      }
+    ],
+    "resumeEducation": [
+      {
+        "school": "MICA Ahmedabad",
+        "degree": "PGDM Marketing",
+        "startDate": "07/2019",
+        "endDate": "06/2021",
+        "description": "Focused on digital marketing strategies."
+      }
+    ],
+    "resumeLocation": "Mumbai, India",
+    "skillsScore": 0,
+    "experienceScore": 25,
+    "locationScore": 50,
+    "roleSimilarity": 10,
+    "educationScore": 50,
+    "matchScore": 22
+  },
+  {
+    "jobRole": "Database Administrator",
+    "jobDescription": "Designs, implements and maintains database systems.",
+    "jobSkills": ["Oracle", "PostgreSQL", "MySQL", "SQL", "Database Design", "Performance Tuning"],
+    "requiredExperience": "5-7 years",
+    "jobLocation": "Remote",
+    "minSalary": 1000000,
+    "maxSalary": 1500000,
+    "resumeTitle": "Gaurav",
+    "resumeSummary": "Human resources professional specializing in recruitment.",
+    "resumeSkills": ["HR Management", "Recruitment", "Employee Relations"],
+    "resumeExperience": null,
+    "resumeEducation": [
+      {
+        "school": "XLRI Jamshedpur",
+        "degree": "PGDM HR",
+        "startDate": "07/2021",
+        "endDate": "06/2023",
+        "description": "Specialized in human resource management and recruitment strategies."
+      },
+      {
+        "school": "Delhi University",
+        "degree": "B.Com",
+        "startDate": "07/2018",
+        "endDate": "06/2021",
+        "description": "Studied business administration and commerce."
+      }
+    ],
+    "resumeLocation": "Chandigarh, India",
+    "skillsScore": 0,
+    "experienceScore": 0,
+    "locationScore": 100,
+    "roleSimilarity": 5,
+    "educationScore": 50,
+    "matchScore": 20
+  },
+  {
+    "jobRole": "3D Artist",
+    "jobDescription": "Creates 3D models and animations for games and visual media.",
+    "jobSkills": ["3D Modeling", "Blender", "Maya", "ZBrush", "Texturing"],
+    "requiredExperience": "2-4 years",
+    "jobLocation": "Onsite, India, Mumbai",
+    "minSalary": 500000,
+    "maxSalary": 800000,
+    "resumeTitle": "Rahul",
+    "resumeSummary": "Financial analyst with expertise in investment portfolio management.",
+    "resumeSkills": ["Financial Analysis", "Excel", "Investment Banking", "Portfolio Management"],
+    "resumeExperience": [
+      {
+        "role": "Financial Analyst",
+        "company": "InvestCorp",
+        "startDate": "11/2022",
+        "endDate": "Present",
+        "description": "Analyzed investment opportunities and prepared financial reports."
+      }
+    ],
+    "resumeEducation": [
+      {
+        "school": "IIM Lucknow",
+        "degree": "MBA Finance",
+        "startDate": "07/2020",
+        "endDate": "06/2022",
+        "description": "Specialized in financial management and investment strategies."
+      }
+    ],
+    "resumeLocation": "Delhi, India",
+    "skillsScore": 0,
+    "experienceScore": 25,
+    "locationScore": 50,
+    "roleSimilarity": 5,
+    "educationScore": 50,
+    "matchScore": 22
+  },
+  {
+    "jobRole": "Product Manager",
+    "jobDescription": "Defines product vision and leads cross-functional teams to deliver solutions.",
+    "jobSkills": ["Product Management", "Agile Methodologies", "User Research", "JIRA", "Roadmapping"],
+    "requiredExperience": "5-7 years",
+    "jobLocation": "Onsite, India, Bangalore",
+    "minSalary": 1500000,
+    "maxSalary": 2200000,
+    "resumeTitle": "Meera",
+    "resumeSummary": "Entry-level software tester with basic knowledge of QA processes.",
+    "resumeSkills": ["Manual Testing", "TestNG"],
+    "resumeExperience": null,
+    "resumeEducation": [
+      {
+        "school": "Amity University",
+        "degree": "B.Tech Information Technology",
+        "startDate": "07/2020",
+        "endDate": "06/2024",
+        "description": "Currently in final year, focusing on software testing."
+      }
+    ],
+    "resumeLocation": "Noida, India",
+    "skillsScore": 0,
+    "experienceScore": 0,
+    "locationScore": 50,
+    "roleSimilarity": 15,
+    "educationScore": 50,
+    "matchScore": 18
+  },
+  {
+    "jobRole": "Cloud Architect",
+    "jobDescription": "Designs and implements cloud infrastructure and migration strategies.",
+    "jobSkills": ["AWS", "Azure", "GCP", "Cloud Migration", "Serverless", "Microservices"],
+    "requiredExperience": "8+ years",
+    "jobLocation": "Remote",
+    "minSalary": 2000000,
+    "maxSalary": 3000000,
+    "resumeTitle": "Kavita",
+    "resumeSummary": "Customer service representative with experience in retail support.",
+    "resumeSkills": ["Customer Service", "CRM Software", "Conflict Resolution"],
+    "resumeExperience": [
+      {
+        "role": "Customer Support Agent",
+        "company": "RetailSupport",
+        "startDate": "09/2022",
+        "endDate": "Present",
+        "description": "Handled customer inquiries and resolved product issues."
+      },
+      {
+        "role": "Sales Associate",
+        "company": "MegaMart",
+        "startDate": "05/2021",
+        "endDate": "08/2022",
+        "description": "Assisted customers with product selection and checkout."
+      }
+    ],
+    "resumeEducation": [
+      {
+        "school": "Panjab University",
+        "degree": "B.Com",
+        "startDate": "07/2018",
+        "endDate": "06/2021",
+        "description": "Studied business administration with focus on customer relations."
+      }
+    ],
+    "resumeLocation": "Chandigarh, India",
+    "skillsScore": 0,
+    "experienceScore": 15,
+    "locationScore": 100,
+    "roleSimilarity": 5,
+    "educationScore": 50,
+    "matchScore": 26
+  },
+    {
+      "jobRole": "AI Research Scientist",
+      "jobDescription": "Conducts cutting-edge research in artificial intelligence and machine learning algorithms.",
+      "jobSkills": ["Machine Learning", "Deep Learning", "Python", "TensorFlow", "PyTorch", "Research"],
+      "requiredExperience": "5-7 years",
+      "jobLocation": "Onsite, India, Bangalore",
+      "minSalary": 1800000,
+      "maxSalary": 2500000,
+      "resumeTitle": "Samir",
+      "resumeSummary": "Event management professional with experience organizing corporate conferences.",
+      "resumeSkills": ["Event Planning", "Vendor Management", "Budgeting"],
+      "resumeExperience": [
+        {
+          "role": "Event Coordinator",
+          "company": "EventMasters",
+          "startDate": "03/2022",
+          "endDate": "Present",
+          "description": "Organized corporate events and managed vendor relationships."
+        },
+        {
+          "role": "Event Assistant",
+          "company": "ConferencePro",
+          "startDate": "05/2021",
+          "endDate": "02/2022",
+          "description": "Assisted with logistics and attendee registration for conferences."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "Symbiosis Pune",
+          "degree": "BBA Event Management",
+          "startDate": "07/2018",
+          "endDate": "06/2021",
+          "description": "Specialized in event planning and coordination."
+        }
+      ],
+      "resumeLocation": "Pune, India",
+      "skillsScore": 0,
+      "experienceScore": 20,
+      "locationScore": 50,
+      "roleSimilarity": 5,
+      "educationScore": 50,
+      "matchScore": 19
+    },
+    {
+      "jobRole": "Full Stack Developer",
+      "jobDescription": "Develops both frontend and backend components of web applications.",
+      "jobSkills": ["JavaScript", "React.js", "Node.js", "MongoDB", "TypeScript", "GraphQL"],
+      "requiredExperience": "2-4 years",
+      "jobLocation": "Remote",
+      "minSalary": 800000,
+      "maxSalary": 1200000,
+      "resumeTitle": "Ananya",
+      "resumeSummary": "Nutritionist specializing in sports nutrition and dietary planning.",
+      "resumeSkills": ["Nutrition Planning", "Diet Assessment", "Health Coaching"],
+      "resumeExperience": [
+        {
+          "role": "Nutritionist",
+          "company": "FitLife",
+          "startDate": "04/2023",
+          "endDate": "Present",
+          "description": "Provided personalized nutrition plans for athletes and fitness enthusiasts."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "Delhi University",
+          "degree": "B.Sc Nutrition and Dietetics",
+          "startDate": "07/2019",
+          "endDate": "06/2022",
+          "description": "Studied nutrition science and dietary management."
+        }
+      ],
+      "resumeLocation": "Delhi, India",
+      "skillsScore": 0,
+      "experienceScore": 25,
+      "locationScore": 100,
+      "roleSimilarity": 5,
+      "educationScore": 50,
+      "matchScore": 29
+    },
+    {
+      "jobRole": "IoT Systems Engineer",
+      "jobDescription": "Designs and implements Internet of Things solutions for industrial applications.",
+      "jobSkills": ["Embedded Systems", "C++", "IoT Protocols", "MQTT", "Raspberry Pi", "Arduino"],
+      "requiredExperience": "5-7 years",
+      "jobLocation": "Onsite, India, Chennai",
+      "minSalary": 1200000,
+      "maxSalary": 1800000,
+      "resumeTitle": "Vivek",
+      "resumeSummary": "Legal professional specializing in corporate law and intellectual property.",
+      "resumeSkills": ["Corporate Law", "Contract Negotiation", "Legal Documentation"],
+      "resumeExperience": null,
+      "resumeEducation": [
+        {
+          "school": "National Law School",
+          "degree": "LLB",
+          "startDate": "07/2018",
+          "endDate": "06/2023",
+          "description": "Focused on corporate and intellectual property law."
+        }
+      ],
+      "resumeLocation": "Bangalore, India",
+      "skillsScore": 0,
+      "experienceScore": 0,
+      "locationScore": 50,
+      "roleSimilarity": 0,
+      "educationScore": 50,
+      "matchScore": 15
+    },
+    {
+      "jobRole": "Data Engineer",
+      "jobDescription": "Builds data pipelines and infrastructure for analytics and machine learning applications.",
+      "jobSkills": ["Python", "SQL", "Spark", "Hadoop", "ETL", "Airflow", "AWS"],
+      "requiredExperience": "2-4 years",
+      "jobLocation": "Onsite, India, Hyderabad",
+      "minSalary": 900000,
+      "maxSalary": 1400000,
+      "resumeTitle": "Ishaan",
+      "resumeSummary": "Video editor and motion graphics artist for digital media.",
+      "resumeSkills": ["Adobe Premiere", "After Effects", "Video Editing", "Motion Graphics"],
+      "resumeExperience": [
+        {
+          "role": "Video Editor",
+          "company": "MediaWorks",
+          "startDate": "07/2023",
+          "endDate": "Present",
+          "description": "Created and edited video content for digital marketing campaigns."
+        },
+        {
+          "role": "Junior Editor",
+          "company": "VisualArts",
+          "startDate": "01/2023",
+          "endDate": "06/2023",
+          "description": "Assisted with video editing and motion graphics projects."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "Film and Television Institute",
+          "degree": "Diploma in Video Production",
+          "startDate": "07/2021",
+          "endDate": "06/2022",
+          "description": "Studied video editing and post-production techniques."
+        }
+      ],
+      "resumeLocation": "Mumbai, India",
+      "skillsScore": 0,
+      "experienceScore": 25,
+      "locationScore": 50,
+      "roleSimilarity": 10,
+      "educationScore": 50,
+      "matchScore": 23
+    },
+    {
+      "jobRole": "Embedded Systems Engineer",
+      "jobDescription": "Develops firmware and hardware interfaces for embedded devices.",
+      "jobSkills": ["C", "C++", "Embedded Linux", "RTOS", "ARM", "Microcontrollers"],
+      "requiredExperience": "5-7 years",
+      "jobLocation": "Remote",
+      "minSalary": 1300000,
+      "maxSalary": 1900000,
+      "resumeTitle": "Neha",
+      "resumeSummary": "Interior designer with expertise in residential and commercial spaces.",
+      "resumeSkills": ["Interior Design", "AutoCAD", "3D Visualization", "Space Planning"],
+      "resumeExperience": [
+        {
+          "role": "Junior Interior Designer",
+          "company": "SpaceWorks",
+          "startDate": "02/2023",
+          "endDate": "Present",
+          "description": "Designed interior layouts for residential apartments and office spaces."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "National Institute of Design",
+          "degree": "B.Des Interior Design",
+          "startDate": "07/2019",
+          "endDate": "06/2023",
+          "description": "Specialized in residential and commercial interior design."
+        }
+      ],
+      "resumeLocation": "Pune, India",
+      "skillsScore": 0,
+      "experienceScore": 20,
+      "locationScore": 100,
+      "roleSimilarity": 5,
+      "educationScore": 50,
+      "matchScore": 28
+    },
+    {
+      "jobRole": "Information Security Analyst",
+      "jobDescription": "Protects computer systems and networks from information breaches and security threats.",
+      "jobSkills": ["Cybersecurity", "Ethical Hacking", "SIEM", "Penetration Testing", "Network Security", "Risk Assessment"],
+      "requiredExperience": "2-4 years",
+      "jobLocation": "Onsite, India, Gurgaon",
+      "minSalary": 800000,
+      "maxSalary": 1200000,
+      "resumeTitle": "Ravi",
+      "resumeSummary": "Supply chain coordinator with experience in logistics management.",
+      "resumeSkills": ["Supply Chain Management", "Inventory Control", "Logistics"],
+      "resumeExperience": null,
+      "resumeEducation": [
+        {
+          "school": "IIM Ahmedabad",
+          "degree": "MBA Operations",
+          "startDate": "07/2021",
+          "endDate": "06/2023",
+          "description": "Specialized in supply chain management and operations."
+        },
+        {
+          "school": "NIT Trichy",
+          "degree": "B.Tech Mechanical Engineering",
+          "startDate": "07/2017",
+          "endDate": "06/2021",
+          "description": "Studied industrial engineering and manufacturing processes."
+        }
+      ],
+      "resumeLocation": "Delhi, India",
+      "skillsScore": 0,
+      "experienceScore": 0,
+      "locationScore": 50,
+      "roleSimilarity": 10,
+      "educationScore": 50,
+      "matchScore": 16
+    },
+    {
+      "jobRole": "AR/VR Developer",
+      "jobDescription": "Creates immersive augmented and virtual reality experiences.",
+      "jobSkills": ["Unity", "C#", "3D Modeling", "AR Frameworks", "VR Development", "Unreal Engine"],
+      "requiredExperience": "2-4 years",
+      "jobLocation": "Remote",
+      "minSalary": 900000,
+      "maxSalary": 1400000,
+      "resumeTitle": "Divya",
+      "resumeSummary": "Healthcare administrator with experience in hospital management.",
+      "resumeSkills": ["Healthcare Administration", "Patient Management", "Medical Billing"],
+      "resumeExperience": [
+        {
+          "role": "Administrative Assistant",
+          "company": "City Hospital",
+          "startDate": "08/2022",
+          "endDate": "Present",
+          "description": "Managed patient records and coordinated administrative functions."
+        },
+        {
+          "role": "Receptionist",
+          "company": "MediCare Clinic",
+          "startDate": "03/2021",
+          "endDate": "07/2022",
+          "description": "Handled patient appointments and front desk operations."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "Manipal Academy",
+          "degree": "BBA Healthcare Management",
+          "startDate": "07/2018",
+          "endDate": "06/2021",
+          "description": "Studied healthcare administration and hospital management."
+        }
+      ],
+      "resumeLocation": "Kolkata, India",
+      "skillsScore": 0,
+      "experienceScore": 25,
+      "locationScore": 100,
+      "roleSimilarity": 5,
+      "educationScore": 50,
+      "matchScore": 30
+    },
+    {
+      "jobRole": "Cloud Security Specialist",
+      "jobDescription": "Ensures the security of cloud-based systems and data.",
+      "jobSkills": ["AWS Security", "Azure Security", "Cloud Compliance", "IAM", "SIEM", "DevSecOps"],
+      "requiredExperience": "5-7 years", 
+      "jobLocation": "Onsite, India, Bangalore",
+      "minSalary": 1500000,
+      "maxSalary": 2200000,
+      "resumeTitle": "Aditya",
+      "resumeSummary": "Digital marketing specialist with focus on social media campaigns.",
+      "resumeSkills": ["Social Media Marketing", "Google Ads", "SEO", "Content Marketing"],
+      "resumeExperience": [
+        {
+          "role": "Digital Marketing Executive",
+          "company": "DigiMarket",
+          "startDate": "05/2023",
+          "endDate": "Present",
+          "description": "Managed social media campaigns and content marketing strategies."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "Symbiosis Pune",
+          "degree": "MBA Marketing",
+          "startDate": "07/2021",
+          "endDate": "06/2023",
+          "description": "Specialized in digital marketing and brand management."
+        }
+      ],
+      "resumeLocation": "Mumbai, India",
+      "skillsScore": 0,
+      "experienceScore": 15,
+      "locationScore": 50,
+      "roleSimilarity": 5,
+      "educationScore": 50,
+      "matchScore": 19
+    },
+    {
+      "jobRole": "Bioinformatics Scientist",
+      "jobDescription": "Analyzes biological data using computational methods and statistics.",
+      "jobSkills": ["Bioinformatics", "Python", "R", "Genomics", "NGS", "MATLAB"],
+      "requiredExperience": "8+ years",
+      "jobLocation": "Onsite, India, Delhi",
+      "minSalary": 1800000,
+      "maxSalary": 2500000,
+      "resumeTitle": "Preeti",
+      "resumeSummary": "Fashion designer with expertise in sustainable clothing design.",
+      "resumeSkills": ["Fashion Design", "Textile Design", "Adobe Illustrator", "Sustainable Design"],
+      "resumeExperience": null,
+      "resumeEducation": [
+        {
+          "school": "National Institute of Fashion Technology",
+          "degree": "B.Des Fashion Design",
+          "startDate": "07/2020",
+          "endDate": "06/2024",
+          "description": "Specialized in sustainable fashion and textiles."
+        }
+      ],
+      "resumeLocation": "Jaipur, India",
+      "skillsScore": 0,
+      "experienceScore": 0,
+      "locationScore": 50,
+      "roleSimilarity": 0,
+      "educationScore": 50,
+      "matchScore": 14
+    },
+    {
+      "jobRole": "Natural Language Processing Engineer",
+      "jobDescription": "Develops systems that can understand, interpret, and generate human language.",
+      "jobSkills": ["Python", "Machine Learning", "NLP", "NLTK", "TensorFlow", "Transformers", "Deep Learning"],
+      "requiredExperience": "5-7 years",
+      "jobLocation": "Remote",
+      "minSalary": 1600000,
+      "maxSalary": 2200000,
+      "resumeTitle": "Varun",
+      "resumeSummary": "Hospitality professional with experience in hotel management.",
+      "resumeSkills": ["Hotel Management", "Customer Service", "Hospitality"],
+      "resumeExperience": [
+        {
+          "role": "Front Desk Manager",
+          "company": "Grand Hotel",
+          "startDate": "12/2022",
+          "endDate": "Present",
+          "description": "Managed front desk operations and guest services."
+        },
+        {
+          "role": "Guest Relations Executive",
+          "company": "Resort Paradise",
+          "startDate": "06/2021",
+          "endDate": "11/2022",
+          "description": "Handled guest inquiries and ensured quality service delivery."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "Institute of Hotel Management",
+          "degree": "Bachelor of Hospitality Management",
+          "startDate": "07/2018",
+          "endDate": "06/2021",
+          "description": "Studied hotel operations and hospitality services."
+        }
+      ],
+      "resumeLocation": "Goa, India",
+      "skillsScore": 0,
+      "experienceScore": 25,
+      "locationScore": 100,
+      "roleSimilarity": 0,
+      "educationScore": 50,
+      "matchScore": 30
+    },
+      {
+        "jobRole": "Quantum Computing Researcher",
+        "jobDescription": "Develops algorithms and applications for quantum computers.",
+        "jobSkills": ["Quantum Computing", "Physics", "Python", "Linear Algebra", "Quantum Algorithms"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 2000000,
+        "maxSalary": 3000000,
+        "resumeTitle": "Karishma",
+        "resumeSummary": "Environmental scientist focused on water conservation projects.",
+        "resumeSkills": ["Environmental Science", "Water Quality Analysis", "GIS"],
+        "resumeExperience": [
+          {
+            "role": "Environmental Analyst",
+            "company": "EcoSolutions",
+            "startDate": "04/2023",
+            "endDate": "Present",
+            "description": "Conducted water quality assessments and prepared environmental reports."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "JNU Delhi",
+            "degree": "M.Sc Environmental Science",
+            "startDate": "07/2021",
+            "endDate": "06/2023",
+            "description": "Focused on water conservation and environmental protection."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 0,
+        "experienceScore": 20,
+        "locationScore": 50,
+        "roleSimilarity": 5,
+        "educationScore": 50,
+        "matchScore": 21
+      },
+      {
+        "jobRole": "Robotics Engineer",
+        "jobDescription": "Designs and builds robots and robotic systems for various applications.",
+        "jobSkills": ["Robotics", "ROS", "C++", "Python", "Mechanical Design", "Electronics"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Mohit",
+        "resumeSummary": "Professional chef with expertise in international cuisine.",
+        "resumeSkills": ["Culinary Arts", "Food Preparation", "Menu Planning"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Institute of Hotel Management",
+            "degree": "Diploma in Culinary Arts",
+            "startDate": "07/2020",
+            "endDate": "06/2022",
+            "description": "Specialized in international cuisine and cooking techniques."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 0,
+        "experienceScore": 0,
+        "locationScore": 50,
+        "roleSimilarity": 0,
+        "educationScore": 50,
+        "matchScore": 15
+      },
+      {
+        "jobRole": "Blockchain Solutions Architect",
+        "jobDescription": "Designs blockchain-based solutions for enterprise applications.",
+        "jobSkills": ["Blockchain", "Smart Contracts", "Ethereum", "Hyperledger", "Solidity", "JavaScript"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1700000,
+        "maxSalary": 2500000,
+        "resumeTitle": "Tanvi",
+        "resumeSummary": "Urban planner specializing in sustainable city development.",
+        "resumeSkills": ["Urban Planning", "AutoCAD", "GIS", "Sustainable Design"],
+        "resumeExperience": [
+          {
+            "role": "Urban Planning Assistant",
+            "company": "CityPlan Consultants",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Assisted in developing urban layout plans and sustainability assessments."
+          },
+          {
+            "role": "Planning Intern",
+            "company": "MetroDesign",
+            "startDate": "01/2022",
+            "endDate": "06/2022",
+            "description": "Supported urban transportation planning projects."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "School of Planning and Architecture",
+            "degree": "Masters in Urban Planning",
+            "startDate": "07/2020",
+            "endDate": "06/2022",
+            "description": "Focused on sustainable urban development and smart cities."
+          }
+        ],
+        "resumeLocation": "Ahmedabad, India",
+        "skillsScore": 0,
+        "experienceScore": 15,
+        "locationScore": 100,
+        "roleSimilarity": 10,
+        "educationScore": 50,
+        "matchScore": 28
+      },
+      {
+        "jobRole": "DevOps Specialist",
+        "jobDescription": "Implements continuous integration and delivery practices for software development.",
+        "jobSkills": ["Docker", "Kubernetes", "Jenkins", "AWS", "Terraform", "CI/CD", "Linux"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Chennai",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Karan",
+        "resumeSummary": "Professional photographer specializing in wildlife and nature photography.",
+        "resumeSkills": ["Photography", "Adobe Lightroom", "Photoshop", "Videography"],
+        "resumeExperience": [
+          {
+            "role": "Freelance Photographer",
+            "company": "Self-employed",
+            "startDate": "01/2021",
+            "endDate": "Present",
+            "description": "Captured wildlife and landscape photography for magazines and exhibitions."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "National Institute of Design",
+            "degree": "Diploma in Photography",
+            "startDate": "07/2019",
+            "endDate": "06/2021",
+            "description": "Focused on wildlife and nature photography techniques."
+          }
+        ],
+        "resumeLocation": "Kolkata, India",
+        "skillsScore": 0,
+        "experienceScore": 25,
+        "locationScore": 50,
+        "roleSimilarity": 0,
+        "educationScore": 50,
+        "matchScore": 22
+      },
+      {
+        "jobRole": "Healthcare Data Scientist",
+        "jobDescription": "Analyzes healthcare data to improve patient outcomes and operational efficiency.",
+        "jobSkills": ["Python", "R", "Machine Learning", "Healthcare Analytics", "SQL", "Data Visualization"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1400000,
+        "maxSalary": 2000000,
+        "resumeTitle": "Aarav",
+        "resumeSummary": "Music producer and audio engineer for recording studios.",
+        "resumeSkills": ["Audio Engineering", "Music Production", "Pro Tools", "Logic Pro"],
+        "resumeExperience": [
+          {
+            "role": "Audio Engineer",
+            "company": "SoundWave Studio",
+            "startDate": "09/2022",
+            "endDate": "Present",
+            "description": "Recorded, mixed, and mastered audio for music productions."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "SAE Institute",
+            "degree": "Diploma in Audio Engineering",
+            "startDate": "07/2020",
+            "endDate": "06/2022",
+            "description": "Studied sound recording, mixing, and audio production."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 0,
+        "experienceScore": 15,
+        "locationScore": 100,
+        "roleSimilarity": 0,
+        "educationScore": 50,
+        "matchScore": 26
+      },
+      {
+        "jobRole": "Petroleum Engineer",
+        "jobDescription": "Develops methods for extracting oil and gas from deposits below the Earth's surface.",
+        "jobSkills": ["Petroleum Engineering", "Reservoir Simulation", "Drilling Engineering", "Matlab", "Geology"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Onsite, India, Gujarat",
+        "minSalary": 1800000,
+        "maxSalary": 2500000,
+        "resumeTitle": "Nandini",
+        "resumeSummary": "Professional dancer and choreographer for cultural performances.",
+        "resumeSkills": ["Dance Choreography", "Performance Art", "Event Production"],
+        "resumeExperience": [
+          {
+            "role": "Dance Instructor",
+            "company": "Rhythm Academy",
+            "startDate": "05/2021",
+            "endDate": "Present",
+            "description": "Taught classical and contemporary dance forms to students of various ages."
+          },
+          {
+            "role": "Performer",
+            "company": "National Dance Ensemble",
+            "startDate": "07/2020",
+            "endDate": "04/2021",
+            "description": "Performed in cultural shows and festivals across the country."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Kalakshetra Foundation",
+            "degree": "Diploma in Classical Dance",
+            "startDate": "07/2018",
+            "endDate": "06/2020",
+            "description": "Specialized in Bharatanatyam and contemporary dance forms."
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 0,
+        "experienceScore": 15,
+        "locationScore": 50,
+        "roleSimilarity": 0,
+        "educationScore": 50,
+        "matchScore": 19
+      },
+      {
+        "jobRole": "Technical Project Manager",
+        "jobDescription": "Leads technical projects and coordinates cross-functional teams.",
+        "jobSkills": ["Project Management", "Agile", "JIRA", "Scrum", "Software Development", "Risk Management"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Hyderabad",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Vishal",
+        "resumeSummary": "Flight attendant with international airline experience.",
+        "resumeSkills": ["Customer Service", "Safety Procedures", "Conflict Resolution", "First Aid"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Air Hostess Academy",
+            "degree": "Diploma in Aviation Hospitality",
+            "startDate": "07/2020",
+            "endDate": "06/2021",
+            "description": "Trained in airline service procedures and passenger safety."
+          },
+          {
+            "school": "Delhi University",
+            "degree": "BA English",
+            "startDate": "07/2017",
+            "endDate": "06/2020",
+            "description": "Studied communication and literature."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 0,
+        "experienceScore": 0,
+        "locationScore": 50,
+        "roleSimilarity": 10,
+        "educationScore": 50,
+        "matchScore": 17
+      },
+      {
+        "jobRole": "Enterprise Architect",
+        "jobDescription": "Designs the structure and operation of an organization's technology systems.",
+        "jobSkills": ["Enterprise Architecture", "Solution Design", "System Integration", "Cloud Migration", "TOGAF"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Remote",
+        "minSalary": 2500000,
+        "maxSalary": 3500000,
+        "resumeTitle": "Raghav",
+        "resumeSummary": "Professional athlete competing in national-level swimming competitions.",
+        "resumeSkills": ["Competitive Swimming", "Athletic Training", "Sports Performance"],
+        "resumeExperience": [
+          {
+            "role": "Professional Swimmer",
+            "company": "National Aquatics Team",
+            "startDate": "01/2019",
+            "endDate": "Present",
+            "description": "Competed in national swimming championships and trained junior swimmers."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "National Sports Academy",
+            "degree": "Diploma in Sports Science",
+            "startDate": "07/2017",
+            "endDate": "06/2019",
+            "description": "Studied sports physiology and performance training."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 0,
+        "experienceScore": 15,
+        "locationScore": 100,
+        "roleSimilarity": 0,
+        "educationScore": 50,
+        "matchScore": 25
+      },
+      {
+        "jobRole": "Semiconductor Design Engineer",
+        "jobDescription": "Designs and develops integrated circuits and semiconductor devices.",
+        "jobSkills": ["VLSI Design", "Verilog", "ASIC", "FPGA", "Circuit Design", "Cadence"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 1600000,
+        "maxSalary": 2200000,
+        "resumeTitle": "Komal",
+        "resumeSummary": "Fashion merchandiser with expertise in retail product planning.",
+        "resumeSkills": ["Fashion Merchandising", "Retail Planning", "Trend Analysis", "Inventory Management"],
+        "resumeExperience": [
+          {
+            "role": "Assistant Merchandiser",
+            "company": "Fashion House",
+            "startDate": "08/2022",
+            "endDate": "Present",
+            "description": "Planned product lines and coordinated with suppliers for seasonal collections."
+          },
+          {
+            "role": "Retail Associate",
+            "company": "StyleMart",
+            "startDate": "03/2021",
+            "endDate": "07/2022",
+            "description": "Assisted customers and managed in-store inventory."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "National Institute of Fashion Technology",
+            "degree": "B.Des Fashion Communication",
+            "startDate": "07/2017",
+            "endDate": "06/2021",
+            "description": "Studied fashion merchandising and retail management."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 0,
+        "experienceScore": 15,
+        "locationScore": 50,
+        "roleSimilarity": 5,
+        "educationScore": 50,
+        "matchScore": 20
+      },
+      {
+        "jobRole": "Telecommunications Engineer",
+        "jobDescription": "Designs and optimizes telecommunication networks and systems.",
+        "jobSkills": ["Telecommunications", "Network Design", "RF Engineering", "5G", "LTE", "Wireless Communications"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Delhi",
+        "minSalary": 700000,
+        "maxSalary": 1100000,
+        "resumeTitle": "Shruti",
+        "resumeSummary": "Pastry chef with expertise in artisanal desserts and baking.",
+        "resumeSkills": ["Pastry Arts", "Baking", "Dessert Design", "Food Presentation"],
+        "resumeExperience": [
+          {
+            "role": "Pastry Chef",
+            "company": "Gourmet Bakery",
+            "startDate": "04/2023",
+            "endDate": "Present",
+            "description": "Created artisanal pastries and desserts for a high-end bakery."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Culinary Academy",
+            "degree": "Diploma in Pastry Arts",
+            "startDate": "07/2021",
+            "endDate": "06/2023",
+            "description": "Specialized in advanced baking techniques and dessert preparation."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 0,
+        "experienceScore": 25,
+        "locationScore": 50,
+        "roleSimilarity": 0,
+        "educationScore": 50,
+        "matchScore": 22
+      },
+        {
+          "jobRole": "Automotive Software Engineer",
+          "jobDescription": "Develops software for autonomous vehicles and automotive systems.",
+          "jobSkills": ["C++", "AUTOSAR", "Embedded Systems", "Machine Learning", "CAN Protocol", "MATLAB"],
+          "requiredExperience": "5-7 years",
+          "jobLocation": "Onsite, India, Pune",
+          "minSalary": 1400000,
+          "maxSalary": 2000000,
+          "resumeTitle": "Amit",
+          "resumeSummary": "Wedding planner specializing in traditional and destination weddings.",
+          "resumeSkills": ["Event Planning", "Vendor Management", "Budget Planning"],
+          "resumeExperience": [
+            {
+              "role": "Wedding Coordinator",
+              "company": "Dream Weddings",
+              "startDate": "03/2022",
+              "endDate": "Present",
+              "description": "Planned and coordinated wedding ceremonies and receptions."
+            },
+            {
+              "role": "Event Assistant",
+              "company": "Celebration Events",
+              "startDate": "06/2021",
+              "endDate": "02/2022",
+              "description": "Assisted with event planning and client communications."
+            }
+          ],
+          "resumeEducation": [
+            {
+              "school": "Symbiosis Pune",
+              "degree": "BBA Hospitality Management",
+              "startDate": "07/2018",
+              "endDate": "06/2021",
+              "description": "Focused on event management and hospitality services."
+            }
+          ],
+          "resumeLocation": "Mumbai, India",
+          "skillsScore": 0,
+          "experienceScore": 15,
+          "locationScore": 50,
+          "roleSimilarity": 0,
+          "educationScore": 50,
+          "matchScore": 18
+        },
+        {
+          "jobRole": "Financial Analyst",
+          "jobDescription": "Analyzes financial data to guide business decisions and investment strategies.",
+          "jobSkills": ["Financial Modeling", "Excel", "Valuation", "SQL", "Financial Statements", "Bloomberg Terminal"],
+          "requiredExperience": "2-4 years",
+          "jobLocation": "Remote",
+          "minSalary": 800000,
+          "maxSalary": 1200000,
+          "resumeTitle": "Manisha",
+          "resumeSummary": "Yoga instructor with expertise in traditional Hatha and Ashtanga yoga.",
+          "resumeSkills": ["Yoga Instruction", "Meditation", "Wellness Coaching"],
+          "resumeExperience": null,
+          "resumeEducation": [
+            {
+              "school": "International Yoga Academy",
+              "degree": "Certified Yoga Instructor",
+              "startDate": "01/2022",
+              "endDate": "06/2022",
+              "description": "Comprehensive training in yoga philosophy and teaching methodologies."
+            },
+            {
+              "school": "Delhi University",
+              "degree": "BA Philosophy",
+              "startDate": "07/2018",
+              "endDate": "06/2021",
+              "description": "Studied Eastern philosophy and mindfulness practices."
+            }
+          ],
+          "resumeLocation": "Rishikesh, India",
+          "skillsScore": 0,
+          "experienceScore": 0,
+          "locationScore": 100,
+          "roleSimilarity": 0,
+          "educationScore": 50,
+          "matchScore": 25
+        },
+        {
+          "jobRole": "Aerospace Engineer",
+          "jobDescription": "Designs and tests aircraft, spacecraft, and propulsion systems.",
+          "jobSkills": ["Aerodynamics", "CAD", "Structural Analysis", "Fluid Dynamics", "MATLAB", "Composite Materials"],
+          "requiredExperience": "5-7 years",
+          "jobLocation": "Onsite, India, Bangalore",
+          "minSalary": 1600000,
+          "maxSalary": 2400000,
+          "resumeTitle": "Prakash",
+          "resumeSummary": "Professional voice actor for animation and commercials.",
+          "resumeSkills": ["Voice Acting", "Audio Production", "Script Interpretation"],
+          "resumeExperience": [
+            {
+              "role": "Voice Artist",
+              "company": "VoiceWorks Studio",
+              "startDate": "10/2023",
+              "endDate": "Present",
+              "description": "Provided voiceovers for animated characters and commercial spots."
+            }
+          ],
+          "resumeEducation": [
+            {
+              "school": "National School of Drama",
+              "degree": "Diploma in Performing Arts",
+              "startDate": "07/2021",
+              "endDate": "06/2023",
+              "description": "Trained in voice modulation and character performance."
+            }
+          ],
+          "resumeLocation": "Delhi, India",
+          "skillsScore": 0,
+          "experienceScore": 15,
+          "locationScore": 50,
+          "roleSimilarity": 0,
+          "educationScore": 50,
+          "matchScore": 19
+        },
+        {
+          "jobRole": "Clinical Trial Manager",
+          "jobDescription": "Oversees the planning and execution of clinical trials for pharmaceutical products.",
+          "jobSkills": ["Clinical Research", "GCP", "Regulatory Compliance", "Medical Writing", "Patient Recruitment"],
+          "requiredExperience": "8+ years",
+          "jobLocation": "Onsite, India, Hyderabad",
+          "minSalary": 1800000,
+          "maxSalary": 2600000,
+          "resumeTitle": "Pradeep",
+          "resumeSummary": "Professional cricket coach for youth teams.",
+          "resumeSkills": ["Sports Coaching", "Performance Analysis", "Youth Development"],
+          "resumeExperience": [
+            {
+              "role": "Cricket Coach",
+              "company": "Elite Sports Academy",
+              "startDate": "07/2022",
+              "endDate": "Present",
+              "description": "Trained young cricket players in batting, bowling, and fielding techniques."
+            },
+            {
+              "role": "Assistant Coach",
+              "company": "City Cricket Club",
+              "startDate": "01/2021",
+              "endDate": "06/2022",
+              "description": "Assisted head coach with training sessions and match preparations."
+            }
+          ],
+          "resumeEducation": [
+            {
+              "school": "Sports Authority of India",
+              "degree": "Certification in Cricket Coaching",
+              "startDate": "07/2020",
+              "endDate": "12/2020",
+              "description": "Formal training in cricket coaching methodologies."
+            }
+          ],
+          "resumeLocation": "Chennai, India",
+          "skillsScore": 0,
+          "experienceScore": 15,
+          "locationScore": 50,
+          "roleSimilarity": 0,
+          "educationScore": 50,
+          "matchScore": 19
+        },
+        {
+          "jobRole": "Renewable Energy Engineer",
+          "jobDescription": "Designs and implements sustainable energy solutions using renewable resources.",
+          "jobSkills": ["Solar Energy", "Wind Power", "Energy Storage", "Electrical Engineering", "AutoCAD", "Energy Modeling"],
+          "requiredExperience": "2-4 years",
+          "jobLocation": "Remote",
+          "minSalary": 900000,
+          "maxSalary": 1400000,
+          "resumeTitle": "Sonali",
+          "resumeSummary": "Textile designer specializing in handloom fabrics and traditional patterns.",
+          "resumeSkills": ["Textile Design", "Fabric Development", "Pattern Making", "Adobe Illustrator"],
+          "resumeExperience": [
+            {
+              "role": "Textile Designer",
+              "company": "Heritage Fabrics",
+              "startDate": "01/2023",
+              "endDate": "Present",
+              "description": "Created textile patterns for handloom sarees and home furnishings."
+            }
+          ],
+          "resumeEducation": [
+            {
+              "school": "National Institute of Design",
+              "degree": "B.Des Textile Design",
+              "startDate": "07/2019",
+              "endDate": "06/2023",
+              "description": "Specialized in traditional Indian textiles and contemporary applications."
+            }
+          ],
+          "resumeLocation": "Jaipur, India",
+          "skillsScore": 0,
+          "experienceScore": 25,
+          "locationScore": 100,
+          "roleSimilarity": 5,
+          "educationScore": 50,
+          "matchScore": 31
+        },
+        {
+          "jobRole": "Biotechnology Researcher",
+          "jobDescription": "Conducts research in genetic engineering and molecular biology applications.",
+          "jobSkills": ["Molecular Biology", "PCR", "CRISPR", "Cell Culture", "Protein Purification", "Bioinformatics"],
+          "requiredExperience": "5-7 years",
+          "jobLocation": "Onsite, India, Chennai",
+          "minSalary": 1200000,
+          "maxSalary": 1800000,
+          "resumeTitle": "Rohit",
+          "resumeSummary": "Professional tour guide specializing in historical monuments and cultural tourism.",
+          "resumeSkills": ["Tour Guiding", "Cultural Knowledge", "Foreign Languages", "Customer Service"],
+          "resumeExperience": null,
+          "resumeEducation": [
+            {
+              "school": "Delhi University",
+              "degree": "MA History",
+              "startDate": "07/2020",
+              "endDate": "06/2022",
+              "description": "Focused on Indian architectural history and cultural heritage."
+            },
+            {
+              "school": "Institute of Tourism",
+              "degree": "Certificate in Tourism Management",
+              "startDate": "01/2023",
+              "endDate": "06/2023",
+              "description": "Specialized training in heritage tourism and visitor experience."
+            }
+          ],
+          "resumeLocation": "Delhi, India",
+          "skillsScore": 0,
+          "experienceScore": 0,
+          "locationScore": 50,
+          "roleSimilarity": 0,
+          "educationScore": 50,
+          "matchScore": 15
+        },
+        {
+          "jobRole": "Supply Chain Manager",
+          "jobDescription": "Oversees the flow of goods and services from suppliers to customers.",
+          "jobSkills": ["Supply Chain Management", "Logistics", "Inventory Management", "ERP Systems", "Demand Planning"],
+          "requiredExperience": "5-7 years",
+          "jobLocation": "Onsite, India, Mumbai",
+          "minSalary": 1500000,
+          "maxSalary": 2200000,
+          "resumeTitle": "Maya",
+          "resumeSummary": "Classical musician specializing in Carnatic vocal performance.",
+          "resumeSkills": ["Vocal Performance", "Music Theory", "Concert Planning"],
+          "resumeExperience": [
+            {
+              "role": "Performing Artist",
+              "company": "Self-employed",
+              "startDate": "06/2021",
+              "endDate": "Present",
+              "description": "Performed at classical music concerts and cultural festivals."
+            },
+            {
+              "role": "Music Teacher",
+              "company": "Classical Arts Academy",
+              "startDate": "08/2022",
+              "endDate": "Present",
+              "description": "Taught Carnatic music to students of various age groups."
+            }
+          ],
+          "resumeEducation": [
+            {
+              "school": "Chennai Music Academy",
+              "degree": "Diploma in Carnatic Music",
+              "startDate": "07/2019",
+              "endDate": "06/2021",
+              "description": "Intensive training in classical vocal performance."
+            }
+          ],
+          "resumeLocation": "Chennai, India",
+          "skillsScore": 0,
+          "experienceScore": 15,
+          "locationScore": 50,
+          "roleSimilarity": 0,
+          "educationScore": 50,
+          "matchScore": 19
+        },
+        {
+          "jobRole": "Architectural Visualizer",
+          "jobDescription": "Creates photorealistic 3D renderings and animations of architectural designs.",
+          "jobSkills": ["3D Modeling", "3ds Max", "V-Ray", "Photoshop", "Architectural Visualization", "AutoCAD"],
+          "requiredExperience": "2-4 years",
+          "jobLocation": "Remote",
+          "minSalary": 600000,
+          "maxSalary": 1000000,
+          "resumeTitle": "Kabir",
+          "resumeSummary": "Organic farmer specializing in sustainable agriculture practices.",
+          "resumeSkills": ["Organic Farming", "Crop Management", "Soil Conservation"],
+          "resumeExperience": [
+            {
+              "role": "Farm Manager",
+              "company": "Green Earth Organics",
+              "startDate": "04/2022",
+              "endDate": "Present",
+              "description": "Managed organic vegetable production and implemented sustainable farming methods."
+            }
+          ],
+          "resumeEducation": [
+            {
+              "school": "Agricultural University",
+              "degree": "B.Sc Agriculture",
+              "startDate": "07/2018",
+              "endDate": "06/2022",
+              "description": "Specialized in organic farming and sustainable agriculture."
+            }
+          ],
+          "resumeLocation": "Dehradun, India",
+          "skillsScore": 0,
+          "experienceScore": 25,
+          "locationScore": 100,
+          "roleSimilarity": 0,
+          "educationScore": 50,
+          "matchScore": 30
+        },
+        {
+          "jobRole": "Technical Writer",
+          "jobDescription": "Creates clear and concise documentation for technical products and services.",
+          "jobSkills": ["Technical Writing", "Documentation", "API Documentation", "DITA", "Content Management", "Markdown"],
+          "requiredExperience": "2-4 years",
+          "jobLocation": "Onsite, India, Bangalore",
+          "minSalary": 600000,
+          "maxSalary": 900000,
+          "resumeTitle": "Lakshmi",
+          "resumeSummary": "Professional astrologer providing personal horoscope readings and consultations.",
+          "resumeSkills": ["Astrology", "Vedic Astrology", "Horoscope Analysis"],
+          "resumeExperience": [
+            {
+              "role": "Astrologer",
+              "company": "Self-employed",
+              "startDate": "01/2021",
+              "endDate": "Present",
+              "description": "Provided personalized astrological consultations and horoscope readings."
+            }
+          ],
+          "resumeEducation": [
+            {
+              "school": "Institute of Vedic Astrology",
+              "degree": "Diploma in Vedic Astrology",
+              "startDate": "07/2019",
+              "endDate": "06/2020",
+              "description": "Studied traditional Hindu astrology systems and chart interpretation."
+            },
+            {
+              "school": "Mysore University",
+              "degree": "BA Philosophy",
+              "startDate": "07/2016",
+              "endDate": "06/2019",
+              "description": "Studied Eastern philosophy and metaphysics."
+            }
+          ],
+          "resumeLocation": "Mysore, India",
+          "skillsScore": 0,
+          "experienceScore": 25,
+          "locationScore": 50,
+          "roleSimilarity": 5,
+          "educationScore": 50,
+          "matchScore": 24
+        },
+        {
+          "jobRole": "UX Researcher",
+          "jobDescription": "Conducts user research to inform the design of digital products and services.",
+          "jobSkills": ["User Research", "Usability Testing", "Interviews", "Surveys", "Data Analysis", "Wireframing"],
+          "requiredExperience": "2-4 years",
+          "jobLocation": "Remote",
+          "minSalary": 800000,
+          "maxSalary": 1300000,
+          "resumeTitle": "Sohan",
+          "resumeSummary": "Professional potter creating handcrafted ceramic art and functional pieces.",
+          "resumeSkills": ["Pottery", "Ceramic Arts", "Kiln Firing", "Glazing Techniques"],
+          "resumeExperience": [
+            {
+              "role": "Ceramic Artist",
+              "company": "Earthen Creations",
+              "startDate": "05/2021",
+              "endDate": "Present",
+              "description": "Created handcrafted pottery and ceramics for retail and exhibitions."
+            }
+          ],
+          "resumeEducation": [
+            {
+              "school": "Fine Arts Institute",
+              "degree": "Diploma in Ceramic Arts",
+              "startDate": "07/2019",
+              "endDate": "06/2021",
+              "description": "Specialized training in pottery techniques and ceramic design."
+            }
+          ],
+          "resumeLocation": "Jaipur, India",
+          "skillsScore": 0,
+          "experienceScore": 25,
+          "locationScore": 100,
+          "roleSimilarity": 0,
+          "educationScore": 50,
+          "matchScore": 30
+        },
+          {
+            "jobRole": "Cybersecurity Architect",
+            "jobDescription": "Designs and implements security systems to protect organization's data and infrastructure.",
+            "jobSkills": ["Cybersecurity", "Network Security", "Penetration Testing", "SIEM", "IAM", "Cloud Security"],
+            "requiredExperience": "8+ years",
+            "jobLocation": "Onsite, India, Delhi",
+            "minSalary": 2200000,
+            "maxSalary": 3000000,
+            "resumeTitle": "Nikhil",
+            "resumeSummary": "Professional tailor specializing in bespoke men's clothing and alterations.",
+            "resumeSkills": ["Tailoring", "Pattern Making", "Garment Construction", "Fabric Selection"],
+            "resumeExperience": [
+              {
+                "role": "Master Tailor",
+                "company": "Elite Bespoke",
+                "startDate": "05/2021",
+                "endDate": "Present",
+                "description": "Created custom suits and formal wear for high-end clientele."
+              },
+              {
+                "role": "Tailor Assistant",
+                "company": "Fashion House",
+                "startDate": "08/2019",
+                "endDate": "04/2021",
+                "description": "Assisted with garment alterations and basic pattern making."
+              }
+            ],
+            "resumeEducation": [
+              {
+                "school": "Institute of Fashion Design",
+                "degree": "Diploma in Garment Construction",
+                "startDate": "07/2018",
+                "endDate": "06/2019",
+                "description": "Focused on tailoring techniques and pattern drafting."
+              }
+            ],
+            "resumeLocation": "Mumbai, India",
+            "skillsScore": 0,
+            "experienceScore": 15,
+            "locationScore": 50,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 18
+          },
+          {
+            "jobRole": "Computational Linguist",
+            "jobDescription": "Develops algorithms and models for natural language processing applications.",
+            "jobSkills": ["NLP", "Machine Learning", "Python", "Computational Linguistics", "NLTK", "Transformers"],
+            "requiredExperience": "5-7 years",
+            "jobLocation": "Remote",
+            "minSalary": 1600000,
+            "maxSalary": 2200000,
+            "resumeTitle": "Anushka",
+            "resumeSummary": "Professional makeup artist for film and theatrical productions.",
+            "resumeSkills": ["Makeup Artistry", "SFX Makeup", "Hair Styling", "Prosthetics"],
+            "resumeExperience": null,
+            "resumeEducation": [
+              {
+                "school": "Cinema Makeup School",
+                "degree": "Diploma in Professional Makeup Artistry",
+                "startDate": "01/2022",
+                "endDate": "12/2022",
+                "description": "Specialized in character makeup and special effects techniques."
+              },
+              {
+                "school": "Mumbai University",
+                "degree": "BA Fine Arts",
+                "startDate": "07/2018",
+                "endDate": "06/2021",
+                "description": "Studied visual arts and color theory."
+              }
+            ],
+            "resumeLocation": "Mumbai, India",
+            "skillsScore": 0,
+            "experienceScore": 0,
+            "locationScore": 100,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 25
+          },
+          {
+            "jobRole": "Quantitative Analyst",
+            "jobDescription": "Develops mathematical models to support financial and investment decisions.",
+            "jobSkills": ["Financial Mathematics", "Python", "R", "Statistical Analysis", "Risk Management", "C++"],
+            "requiredExperience": "5-7 years",
+            "jobLocation": "Onsite, India, Mumbai",
+            "minSalary": 1800000,
+            "maxSalary": 2500000,
+            "resumeTitle": "Varun",
+            "resumeSummary": "Professional florist specializing in event decorations and wedding arrangements.",
+            "resumeSkills": ["Floral Design", "Event Decoration", "Botanical Knowledge", "Client Consultation"],
+            "resumeExperience": [
+              {
+                "role": "Floral Designer",
+                "company": "Blooming Creations",
+                "startDate": "03/2022",
+                "endDate": "Present",
+                "description": "Created custom floral arrangements for weddings and corporate events."
+              },
+              {
+                "role": "Florist Assistant",
+                "company": "Garden Boutique",
+                "startDate": "06/2021",
+                "endDate": "02/2022",
+                "description": "Assisted with floral arrangements and customer consultations."
+              }
+            ],
+            "resumeEducation": [
+              {
+                "school": "Flower Design Institute",
+                "degree": "Certificate in Professional Floristry",
+                "startDate": "01/2021",
+                "endDate": "05/2021",
+                "description": "Intensive training in floral design techniques and arrangements."
+              }
+            ],
+            "resumeLocation": "Delhi, India",
+            "skillsScore": 0,
+            "experienceScore": 15,
+            "locationScore": 50,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 19
+          },
+          {
+            "jobRole": "SAP Consultant",
+            "jobDescription": "Implements and customizes SAP ERP solutions for business processes.",
+            "jobSkills": ["SAP ERP", "ABAP", "SAP HANA", "Business Process Analysis", "System Integration", "SAP Fiori"],
+            "requiredExperience": "5-7 years",
+            "jobLocation": "Onsite, India, Bangalore",
+            "minSalary": 1500000,
+            "maxSalary": 2200000,
+            "resumeTitle": "Vidya",
+            "resumeSummary": "Professional calligrapher specializing in traditional scripts and modern lettering.",
+            "resumeSkills": ["Calligraphy", "Typography", "Lettering Design", "Ink Techniques"],
+            "resumeExperience": [
+              {
+                "role": "Calligraphy Artist",
+                "company": "Self-employed",
+                "startDate": "07/2021",
+                "endDate": "Present",
+                "description": "Created custom calligraphy for events, branding, and commissions."
+              }
+            ],
+            "resumeEducation": [
+              {
+                "school": "Institute of Design",
+                "degree": "Certificate in Typography and Calligraphy",
+                "startDate": "01/2021",
+                "endDate": "06/2021",
+                "description": "Studied historical scripts and contemporary calligraphy techniques."
+              },
+              {
+                "school": "Delhi University",
+                "degree": "BA English Literature",
+                "startDate": "07/2017",
+                "endDate": "06/2020",
+                "description": "Studied language and literature with focus on poetry."
+              }
+            ],
+            "resumeLocation": "Jaipur, India",
+            "skillsScore": 0,
+            "experienceScore": 15,
+            "locationScore": 50,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 19
+          },
+          {
+            "jobRole": "Biomedical Engineer",
+            "jobDescription": "Designs and develops medical devices and equipment for healthcare applications.",
+            "jobSkills": ["Medical Device Design", "Biomedical Instrumentation", "CAD", "FDA Regulations", "Material Science"],
+            "requiredExperience": "2-4 years",
+            "jobLocation": "Remote",
+            "minSalary": 1000000,
+            "maxSalary": 1500000,
+            "resumeTitle": "Mohan",
+            "resumeSummary": "Professional magician performing close-up magic and stage illusions.",
+            "resumeSkills": ["Magic Performance", "Stage Presence", "Audience Engagement", "Sleight of Hand"],
+            "resumeExperience": [
+              {
+                "role": "Performing Magician",
+                "company": "Self-employed",
+                "startDate": "01/2022",
+                "endDate": "Present",
+                "description": "Performed at corporate events, private parties, and public venues."
+              },
+              {
+                "role": "Magic Shop Assistant",
+                "company": "Wonder Emporium",
+                "startDate": "06/2021",
+                "endDate": "12/2021",
+                "description": "Demonstrated tricks and assisted customers with magic supplies."
+              }
+            ],
+            "resumeEducation": [
+              {
+                "school": "Academy of Magical Arts",
+                "degree": "Certificate in Performance Magic",
+                "startDate": "01/2021",
+                "endDate": "05/2021",
+                "description": "Intensive training in illusion techniques and performance skills."
+              }
+            ],
+            "resumeLocation": "Bangalore, India",
+            "skillsScore": 0,
+            "experienceScore": 25,
+            "locationScore": 100,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 30
+          },
+          {
+            "jobRole": "ETL Developer",
+            "jobDescription": "Designs and implements data extraction, transformation, and loading processes for data warehouses.",
+            "jobSkills": ["ETL", "SQL", "Data Warehousing", "Python", "Informatica", "AWS Glue"],
+            "requiredExperience": "2-4 years",
+            "jobLocation": "Onsite, India, Chennai",
+            "minSalary": 700000,
+            "maxSalary": 1100000,
+            "resumeTitle": "Ayesha",
+            "resumeSummary": "Henna artist specializing in bridal and event-based body art.",
+            "resumeSkills": ["Henna Art", "Bridal Mehndi", "Pattern Design", "Natural Dye Preparation"],
+            "resumeExperience": null,
+            "resumeEducation": [
+              {
+                "school": "Traditional Arts Academy",
+                "degree": "Certificate in Professional Henna Art",
+                "startDate": "03/2022",
+                "endDate": "08/2022",
+                "description": "Focused on traditional and contemporary henna design techniques."
+              }
+            ],
+            "resumeLocation": "Jaipur, India",
+            "skillsScore": 0,
+            "experienceScore": 0,
+            "locationScore": 50,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 15
+          },
+          {
+            "jobRole": "Site Reliability Engineer",
+            "jobDescription": "Ensures the availability, performance, and reliability of software systems and infrastructure.",
+            "jobSkills": ["Linux", "Cloud Infrastructure", "Monitoring", "Kubernetes", "Python", "Automation", "DevOps"],
+            "requiredExperience": "5-7 years",
+            "jobLocation": "Remote",
+            "minSalary": 1500000,
+            "maxSalary": 2200000,
+            "resumeTitle": "Kishore",
+            "resumeSummary": "Ayurvedic practitioner specializing in traditional Indian medicine and wellness.",
+            "resumeSkills": ["Ayurvedic Medicine", "Holistic Health", "Herbal Remedies", "Wellness Consultation"],
+            "resumeExperience": [
+              {
+                "role": "Ayurvedic Consultant",
+                "company": "Wellness Harmony Center",
+                "startDate": "04/2022",
+                "endDate": "Present",
+                "description": "Provided personalized Ayurvedic consultations and treatment plans."
+              }
+            ],
+            "resumeEducation": [
+              {
+                "school": "Institute of Ayurvedic Studies",
+                "degree": "Diploma in Ayurvedic Medicine",
+                "startDate": "07/2019",
+                "endDate": "06/2022",
+                "description": "Comprehensive study of traditional Ayurvedic principles and practices."
+              }
+            ],
+            "resumeLocation": "Kerala, India",
+            "skillsScore": 0,
+            "experienceScore": 20,
+            "locationScore": 100,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 28
+          },
+          {
+            "jobRole": "Big Data Engineer",
+            "jobDescription": "Designs and builds systems for processing and analyzing large volumes of data.",
+            "jobSkills": ["Hadoop", "Spark", "Python", "Kafka", "NoSQL", "Scala", "Hive"],
+            "requiredExperience": "5-7 years",
+            "jobLocation": "Onsite, India, Hyderabad",
+            "minSalary": 1400000,
+            "maxSalary": 2000000,
+            "resumeTitle": "Aryan",
+            "resumeSummary": "Professional astrologer specializing in Vedic astrology and horoscope analysis.",
+            "resumeSkills": ["Vedic Astrology", "Horoscope Reading", "Palmistry", "Gemstone Consultation"],
+            "resumeExperience": [
+              {
+                "role": "Vedic Astrologer",
+                "company": "Self-employed",
+                "startDate": "01/2021",
+                "endDate": "Present",
+                "description": "Provided astrological consultations and personalized horoscope readings."
+              },
+              {
+                "role": "Assistant Astrologer",
+                "company": "Jyotish Kendra",
+                "startDate": "06/2020",
+                "endDate": "12/2020",
+                "description": "Assisted senior astrologers with chart calculations and basic readings."
+              }
+            ],
+            "resumeEducation": [
+              {
+                "school": "Institute of Astrological Studies",
+                "degree": "Diploma in Vedic Astrology",
+                "startDate": "01/2019",
+                "endDate": "12/2019",
+                "description": "Intensive study of Hindu astrological principles and chart interpretation."
+              }
+            ],
+            "resumeLocation": "Varanasi, India",
+            "skillsScore": 0,
+            "experienceScore": 15,
+            "locationScore": 50,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 19
+          },
+          {
+            "jobRole": "ERP Implementation Specialist",
+            "jobDescription": "Configures and implements enterprise resource planning systems for organizations.",
+            "jobSkills": ["ERP Systems", "Business Analysis", "Process Mapping", "Change Management", "SQL", "Data Migration"],
+            "requiredExperience": "5-7 years",
+            "jobLocation": "Onsite, India, Pune",
+            "minSalary": 1200000,
+            "maxSalary": 1800000,
+            "resumeTitle": "Sanjay",
+            "resumeSummary": "Glass blower creating artistic and functional glass pieces using traditional techniques.",
+            "resumeSkills": ["Glass Blowing", "Hot Glass Techniques", "Glass Sculpture", "Kiln Forming"],
+            "resumeExperience": [
+              {
+                "role": "Glass Artist",
+                "company": "Artistic Glass Studio",
+                "startDate": "11/2022",
+                "endDate": "Present",
+                "description": "Created custom glass art pieces and functional glassware."
+              }
+            ],
+            "resumeEducation": [
+              {
+                "school": "Institute of Glass Arts",
+                "degree": "Certificate in Glass Blowing",
+                "startDate": "03/2022",
+                "endDate": "10/2022",
+                "description": "Intensive training in hot glass techniques and glass art production."
+              },
+              {
+                "school": "Delhi University",
+                "degree": "BFA Visual Arts",
+                "startDate": "07/2018",
+                "endDate": "06/2022",
+                "description": "Studied three-dimensional art forms and sculptural techniques."
+              }
+            ],
+            "resumeLocation": "Firozabad, India",
+            "skillsScore": 0,
+            "experienceScore": 15,
+            "locationScore": 50,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 19
+          },
+          {
+            "jobRole": "Microservices Architect",
+            "jobDescription": "Designs and implements distributed systems using microservices architecture.",
+            "jobSkills": ["Microservices", "Docker", "Kubernetes", "API Design", "Java", "Spring Boot", "AWS"],
+            "requiredExperience": "8+ years",
+            "jobLocation": "Remote",
+            "minSalary": 2000000,
+            "maxSalary": 2800000,
+            "resumeTitle": "Neelam",
+            "resumeSummary": "Professional puppeteer creating and performing puppet shows for children's entertainment.",
+            "resumeSkills": ["Puppetry", "Puppet Making", "Voice Acting", "Script Writing", "Children's Entertainment"],
+            "resumeExperience": [
+              {
+                "role": "Puppeteer",
+                "company": "Magical Puppet Theater",
+                "startDate": "05/2022",
+                "endDate": "Present",
+                "description": "Performed puppet shows at schools, birthday parties, and community events."
+              },
+              {
+                "role": "Puppet Maker",
+                "company": "Creative Crafts Studio",
+                "startDate": "01/2021",
+                "endDate": "04/2022",
+                "description": "Designed and constructed puppets for theatrical productions."
+              }
+            ],
+            "resumeEducation": [
+              {
+                "school": "National School of Drama",
+                "degree": "Certificate in Puppetry Arts",
+                "startDate": "07/2020",
+                "endDate": "12/2020",
+                "description": "Specialized training in puppet design, manipulation, and performance."
+              }
+            ],
+            "resumeLocation": "Delhi, India",
+            "skillsScore": 0,
+            "experienceScore": 15,
+            "locationScore": 100,
+            "roleSimilarity": 0,
+            "educationScore": 50,
+            "matchScore": 27
+          }

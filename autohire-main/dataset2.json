@@ -1,0 +1,3342 @@
+[
+    {
+      "jobRole": "Backend Developer",
+      "jobDescription": "Develops and manages the server-side logic for web applications.",
+      "jobSkills": ["Node.js", "SQL", "Docker", "AWS"],
+      "requiredExperience": "2-4 years",
+      "jobLocation": "Onsite, India, Mumbai",
+      "minSalary": 500000,
+      "maxSalary": 800000,
+      "resumeTitle": "Siddharth",
+      "resumeSummary": "Proficient backend developer with experience in server-side technologies.",
+      "resumeSkills": ["Node.js", "Docker", "SQL"],
+      "resumeExperience": [
+        {
+          "role": "Backend Developer",
+          "company": "TechSphere",
+          "startDate": "06/2020",
+          "endDate": "Present",
+          "description": "Designed scalable APIs and managed cloud deployments."
+        },
+        {
+          "role": "Software Intern",
+          "company": "InfiTech",
+          "startDate": "01/2019",
+          "endDate": "05/2020",
+          "description": "Assisted in database design and API integrations."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "IIT Bombay",
+          "degree": "B.Tech Computer Science",
+          "startDate": "07/2016",
+          "endDate": "06/2020",
+          "description": "Specialized in software systems and distributed computing."
+        }
+      ],
+      "resumeLocation": "Mumbai, India",
+      "skillsScore": 80,
+      "experienceScore": 85,
+      "locationScore": 100,
+      "roleSimilarity": 90,
+      "educationScore": 85,
+      "matchScore": 88
+    },
+    {
+      "jobRole": "Machine Learning Engineer",
+      "jobDescription": "Builds models and systems to extract insights from data.",
+      "jobSkills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "Pandas"],
+      "requiredExperience": "5-7 years",
+      "jobLocation": "Remote",
+      "minSalary": 1000000,
+      "maxSalary": 1500000,
+      "resumeTitle": "Nisha",
+      "resumeSummary": "Experienced ML engineer with expertise in building scalable ML models.",
+      "resumeSkills": ["Python", "Machine Learning", "TensorFlow"],
+      "resumeExperience": null,
+      "resumeEducation": [
+        {
+          "school": "IISc Bangalore",
+          "degree": "M.Tech Artificial Intelligence",
+          "startDate": "07/2017",
+          "endDate": "06/2019",
+          "description": "Focused on machine learning and deep learning techniques."
+        },
+        {
+          "school": "IIT Delhi",
+          "degree": "B.Tech Computer Science",
+          "startDate": "07/2013",
+          "endDate": "06/2017",
+          "description": "Core CS subjects with a focus on AI."
+        }
+      ],
+      "resumeLocation": "Bangalore, India",
+      "skillsScore": 70,
+      "experienceScore": 0,
+      "locationScore": 80,
+      "roleSimilarity": 75,
+      "educationScore": 90,
+      "matchScore": 65
+    },
+    {
+      "jobRole": "UI/UX Designer",
+      "jobDescription": "Designs user interfaces that are visually appealing and user-friendly.",
+      "jobSkills": ["Adobe XD", "Figma", "Photoshop"],
+      "requiredExperience": "0-1 years",
+      "jobLocation": "Onsite, India, Hyderabad",
+      "minSalary": 200000,
+      "maxSalary": 300000,
+      "resumeTitle": "Aditi",
+      "resumeSummary": "Creative designer with a strong focus on user-centric designs.",
+      "resumeSkills": ["Figma", "Photoshop"],
+      "resumeExperience": [
+        {
+          "role": "Graphic Design Intern",
+          "company": "PixelWorks",
+          "startDate": "01/2024",
+          "endDate": "Present",
+          "description": "Worked on creating user-friendly interfaces and prototypes."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "National Institute of Design",
+          "degree": "B.Des Interaction Design",
+          "startDate": "07/2020",
+          "endDate": "06/2024",
+          "description": "Studied design principles and prototyping techniques."
+        }
+      ],
+      "resumeLocation": "Hyderabad, India",
+      "skillsScore": 65,
+      "experienceScore": 50,
+      "locationScore": 80,
+      "roleSimilarity": 70,
+      "educationScore": 85,
+      "matchScore": 67
+    },
+    {
+      "jobRole": "Cybersecurity Analyst",
+      "jobDescription": "Identifies and mitigates security vulnerabilities in systems.",
+      "jobSkills": ["Python", "Cybersecurity", "Ethical Hacking"],
+      "requiredExperience": "2-4 years",
+      "jobLocation": "Remote",
+      "minSalary": 600000,
+      "maxSalary": 900000,
+      "resumeTitle": "Raj",
+      "resumeSummary": "Skilled cybersecurity analyst with hands-on experience in vulnerability assessments.",
+      "resumeSkills": ["Python", "Cybersecurity"],
+      "resumeExperience": [
+        {
+          "role": "Security Analyst",
+          "company": "SafeNet",
+          "startDate": "01/2020",
+          "endDate": "12/2023",
+          "description": "Conducted security audits and implemented network protections."
+        },
+        {
+          "role": "Cybersecurity Intern",
+          "company": "TechSec",
+          "startDate": "06/2019",
+          "endDate": "12/2019",
+          "description": "Assisted in ethical hacking simulations and reporting."
+        }
+      ],
+      "resumeEducation": [
+        {
+          "school": "BITS Pilani",
+          "degree": "B.Tech Information Security",
+          "startDate": "07/2015",
+          "endDate": "06/2019",
+          "description": "Focused on cybersecurity and ethical hacking."
+        }
+      ],
+      "resumeLocation": "Delhi, India",
+      "skillsScore": 85,
+      "experienceScore": 70,
+      "locationScore": 100,
+      "roleSimilarity": 80,
+      "educationScore": 85,
+      "matchScore": 82
+    },
+    {
+      "jobRole": "Game Developer",
+      "jobDescription": "Develops immersive gaming experiences using advanced tools.",
+      "jobSkills": ["Unity", "C++", "Blender", "3D Modeling"],
+      "requiredExperience": "0-1 years",
+      "jobLocation": "Onsite, India, Chennai",
+      "minSalary": 300000,
+      "maxSalary": 500000,
+      "resumeTitle": "Karthik",
+      "resumeSummary": "Passionate game developer with experience in 3D modeling and Unity.",
+      "resumeSkills": ["Unity", "C++"],
+      "resumeExperience": null,
+      "resumeEducation": [
+        {
+          "school": "Anna University",
+          "degree": "B.Tech Game Design",
+          "startDate": "07/2018",
+          "endDate": "06/2022",
+          "description": "Studied game engines and 3D asset creation."
+        }
+      ],
+      "resumeLocation": "Chennai, India",
+      "skillsScore": 60,
+      "experienceScore": 0,
+      "locationScore": 75,
+      "roleSimilarity": 70,
+      "educationScore": 75,
+      "matchScore": 55
+    },
+    {
+        "jobRole": "Full Stack Developer",
+        "jobDescription": "Develops end-to-end web applications using modern technologies.",
+        "jobSkills": ["JavaScript", "React.js", "Node.js", "MongoDB", "TypeScript"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Vikram",
+        "resumeSummary": "Full stack developer specializing in JavaScript ecosystem and modern web development.",
+        "resumeSkills": ["JavaScript", "React.js", "Node.js", "MongoDB"],
+        "resumeExperience": [
+          {
+            "role": "Full Stack Developer",
+            "company": "WebTech Solutions",
+            "startDate": "03/2021",
+            "endDate": "Present",
+            "description": "Developed scalable web applications using MERN stack."
+          },
+          {
+            "role": "Frontend Developer",
+            "company": "DigiCorp",
+            "startDate": "06/2020",
+            "endDate": "02/2021",
+            "description": "Built responsive user interfaces using React."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "VIT University",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2016",
+            "endDate": "06/2020",
+            "description": "Focused on web technologies and software engineering."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 80,
+        "experienceScore": 85,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 86
+      },
+      {
+        "jobRole": "DevOps Engineer",
+        "jobDescription": "Manages CI/CD pipelines and cloud infrastructure.",
+        "jobSkills": ["Docker", "Kubernetes", "Jenkins", "AWS", "CI/CD", "DevOps"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1500000,
+        "maxSalary": 2000000,
+        "resumeTitle": "Priya",
+        "resumeSummary": "DevOps specialist with expertise in cloud technologies and automation.",
+        "resumeSkills": ["Docker", "AWS", "Jenkins", "CI/CD", "DevOps"],
+        "resumeExperience": [
+          {
+            "role": "DevOps Engineer",
+            "company": "CloudTech",
+            "startDate": "01/2019",
+            "endDate": "Present",
+            "description": "Led cloud infrastructure and CI/CD implementations."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIT Trichy",
+            "degree": "M.Tech Cloud Computing",
+            "startDate": "07/2016",
+            "endDate": "06/2018",
+            "description": "Specialized in cloud architectures and DevOps practices."
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 83,
+        "experienceScore": 75,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 84
+      },
+      {
+        "jobRole": "Data Scientist",
+        "jobDescription": "Analyzes complex datasets to derive business insights.",
+        "jobSkills": ["Python", "R", "Machine Learning", "Deep Learning", "Data Science"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Arjun",
+        "resumeSummary": "Data scientist with strong background in machine learning and statistics.",
+        "resumeSkills": ["Python", "R", "Machine Learning", "Data Science"],
+        "resumeExperience": [
+          {
+            "role": "Data Scientist",
+            "company": "AnalyticsCo",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Developed predictive models for business forecasting."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "ISI Kolkata",
+            "degree": "M.Stat Statistics",
+            "startDate": "07/2020",
+            "endDate": "06/2022",
+            "description": "Specialized in statistical modeling and machine learning."
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 80,
+        "experienceScore": 60,
+        "locationScore": 70,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 75
+      },
+      {
+        "jobRole": "Mobile App Developer",
+        "jobDescription": "Develops native mobile applications for iOS and Android platforms.",
+        "jobSkills": ["Swift", "Kotlin", "React.js", "Firebase"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 900000,
+        "maxSalary": 1400000,
+        "resumeTitle": "Ravi",
+        "resumeSummary": "Mobile developer with experience in native and cross-platform development.",
+        "resumeSkills": ["Swift", "Kotlin", "Firebase"],
+        "resumeExperience": [
+          {
+            "role": "iOS Developer",
+            "company": "AppTech",
+            "startDate": "01/2021",
+            "endDate": "Present",
+            "description": "Developed and maintained iOS applications."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "MIT Manipal",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2016",
+            "endDate": "06/2020",
+            "description": "Focused on mobile app development."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 75,
+        "experienceScore": 70,
+        "locationScore": 100,
+        "roleSimilarity": 80,
+        "educationScore": 75,
+        "matchScore": 78
+      },
+      {
+        "jobRole": "Frontend Developer",
+        "jobDescription": "Creates responsive and interactive user interfaces.",
+        "jobSkills": ["React.js", "TypeScript", "HTML", "CSS", "SASS"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Onsite, India, Delhi",
+        "minSalary": 400000,
+        "maxSalary": 600000,
+        "resumeTitle": "Neha",
+        "resumeSummary": "Frontend developer with focus on modern JavaScript frameworks.",
+        "resumeSkills": ["React.js", "HTML", "CSS"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "DTU Delhi",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Specialized in web development."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 60,
+        "experienceScore": 100,
+        "locationScore": 100,
+        "roleSimilarity": 75,
+        "educationScore": 80,
+        "matchScore": 61
+      },
+      {
+        "jobRole": "Blockchain Developer",
+        "jobDescription": "Develops decentralized applications and smart contracts.",
+        "jobSkills": ["Blockchain", "Solidity", "JavaScript", "Go"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 2000000,
+        "maxSalary": 2500000,
+        "resumeTitle": "Amit",
+        "resumeSummary": "Software engineer interested in blockchain technology.",
+        "resumeSkills": ["JavaScript", "Go"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "IIT Kanpur",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Basic programming and computer science concepts."
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 50,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 60,
+        "educationScore": 70,
+        "matchScore": 48
+      },
+      {
+        "jobRole": "Database Administrator",
+        "jobDescription": "Manages and optimizes database systems.",
+        "jobSkills": ["PostgreSQL", "MySQL", "MongoDB", "SQL"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Onsite, India, Chennai",
+        "minSalary": 1800000,
+        "maxSalary": 2400000,
+        "resumeTitle": "Deepak",
+        "resumeSummary": "Junior database administrator learning database management.",
+        "resumeSkills": ["MySQL", "SQL"],
+        "resumeExperience": [
+          {
+            "role": "Junior DBA",
+            "company": "DataSys",
+            "startDate": "01/2023",
+            "endDate": "Present",
+            "description": "Basic database administration tasks."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Anna University",
+            "degree": "B.Tech IT",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Database management systems."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 50,
+        "experienceScore": 20,
+        "locationScore": 70,
+        "roleSimilarity": 65,
+        "educationScore": 75,
+        "matchScore": 52
+      },
+      {
+        "jobRole": "AI Engineer",
+        "jobDescription": "Develops artificial intelligence solutions.",
+        "jobSkills": ["Python", "Machine Learning", "Deep Learning", "Artificial Intelligence", "TensorFlow"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 2200000,
+        "maxSalary": 2800000,
+        "resumeTitle": "Sandeep",
+        "resumeSummary": "Recent graduate with interest in AI.",
+        "resumeSkills": ["Python", "Machine Learning"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "BITS Pilani",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "AI and ML courses."
+          }
+        ],
+        "resumeLocation": "Hyderabad, India",
+        "skillsScore": 40,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 60,
+        "educationScore": 80,
+        "matchScore": 45
+      },
+      {
+        "jobRole": "Game Developer",
+        "jobDescription": "Creates interactive gaming experiences.",
+        "jobSkills": ["Unity", "C++", "3D Modeling", "Game Development"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Rohit",
+        "resumeSummary": "Beginner game developer with basic Unity knowledge.",
+        "resumeSkills": ["Unity"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Manipal University",
+            "degree": "B.Tech Gaming Technology",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Game development fundamentals."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 25,
+        "experienceScore": 0,
+        "locationScore": 70,
+        "roleSimilarity": 70,
+        "educationScore": 90,
+        "matchScore": 43
+      },
+      {
+        "jobRole": "Security Engineer",
+        "jobDescription": "Implements and maintains security systems.",
+        "jobSkills": ["Cybersecurity", "Ethical Hacking", "Python", "AWS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Aarav",
+        "resumeSummary": "Recent graduate with basic security knowledge.",
+        "resumeSkills": ["Python"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "SRM University",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Basic cybersecurity courses."
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 25,
+        "experienceScore": 0,
+        "locationScore": 70,
+        "roleSimilarity": 50,
+        "educationScore": 70,
+        "matchScore": 38
+      },
+      {
+        "jobRole": "Frontend Developer",
+        "jobDescription": "Creates responsive and interactive user interfaces using modern web technologies.",
+        "jobSkills": ["React.js", "JavaScript", "HTML", "CSS", "TypeScript"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 600000,
+        "maxSalary": 900000,
+        "resumeTitle": "Priya",
+        "resumeSummary": "Frontend developer with expertise in React and modern JavaScript.",
+        "resumeSkills": ["React.js", "JavaScript", "HTML", "CSS"],
+        "resumeExperience": [
+          {
+            "role": "Frontend Developer",
+            "company": "WebTech Solutions",
+            "startDate": "03/2021",
+            "endDate": "Present",
+            "description": "Developed responsive web applications using React."
+          },
+          {
+            "role": "UI Developer",
+            "company": "Digital Creations",
+            "startDate": "06/2020",
+            "endDate": "02/2021",
+            "description": "Built user interfaces using JavaScript and CSS."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "VIT Vellore",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2016",
+            "endDate": "06/2020",
+            "description": "Specialized in web technologies and UI development."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 80,
+        "experienceScore": 85,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 87
+      },
+      {
+        "jobRole": "DevOps Engineer",
+        "jobDescription": "Manages CI/CD pipelines and cloud infrastructure.",
+        "jobSkills": ["Docker", "Kubernetes", "Jenkins", "AWS", "CI/CD"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Rahul",
+        "resumeSummary": "DevOps professional with focus on automation and cloud technologies.",
+        "resumeSkills": ["Docker", "AWS", "Jenkins"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "NIT Trichy",
+            "degree": "M.Tech Cloud Computing",
+            "startDate": "07/2018",
+            "endDate": "06/2020",
+            "description": "Specialized in cloud technologies and DevOps practices."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 60,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 75,
+        "educationScore": 90,
+        "matchScore": 55
+      },
+      {
+        "jobRole": "Full Stack Developer",
+        "jobDescription": "Develops end-to-end web applications using modern technologies.",
+        "jobSkills": ["JavaScript", "React.js", "Node.js", "MongoDB", "TypeScript"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Amit Kumar",
+        "resumeSummary": "Experienced full stack developer with strong JavaScript expertise.",
+        "resumeSkills": ["JavaScript", "React.js", "Node.js", "MongoDB"],
+        "resumeExperience": [
+          {
+            "role": "Full Stack Developer",
+            "company": "TechCorp",
+            "startDate": "06/2021",
+            "endDate": "Present",
+            "description": "Building scalable web applications using MERN stack."
+          },
+          {
+            "role": "Web Developer",
+            "company": "Digital Solutions",
+            "startDate": "07/2020",
+            "endDate": "05/2021",
+            "description": "Developed responsive websites using modern JavaScript frameworks."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Madras",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2016",
+            "endDate": "06/2020",
+            "description": "Focused on web technologies and software engineering."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 85,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 95,
+        "educationScore": 85,
+        "matchScore": 90
+      },
+      {
+        "jobRole": "Data Scientist",
+        "jobDescription": "Analyzes complex data sets to drive business decisions.",
+        "jobSkills": ["Python", "R", "Machine Learning", "Deep Learning", "Data Science"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1500000,
+        "maxSalary": 2200000,
+        "resumeTitle": "Priya Sharma",
+        "resumeSummary": "Data scientist with expertise in machine learning and statistical analysis.",
+        "resumeSkills": ["Python", "R", "Machine Learning"],
+        "resumeExperience": [
+          {
+            "role": "Senior Data Scientist",
+            "company": "Analytics Corp",
+            "startDate": "01/2022",
+            "endDate": "Present",
+            "description": "Leading data science initiatives and predictive modeling projects."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IISc Bangalore",
+            "degree": "M.Tech Artificial Intelligence",
+            "startDate": "07/2019",
+            "endDate": "06/2021",
+            "description": "Specialized in machine learning and AI algorithms."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 70,
+        "experienceScore": 60,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 77
+      },
+      {
+        "jobRole": "Backend Developer",
+        "jobDescription": "Designs and implements server-side applications.",
+        "jobSkills": ["Java", "Spring Boot", "PostgreSQL", "AWS"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 400000,
+        "maxSalary": 600000,
+        "resumeTitle": "Rahul Singh",
+        "resumeSummary": "Recent graduate with internship experience in backend development.",
+        "resumeSkills": ["Java", "MySQL"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "BITS Pilani",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Focus on database management and backend technologies."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 50,
+        "experienceScore": 40,
+        "locationScore": 70,
+        "roleSimilarity": 60,
+        "educationScore": 80,
+        "matchScore": 55
+      },
+      {
+        "jobRole": "Frontend Developer",
+        "jobDescription": "Creates responsive web interfaces using modern frameworks.",
+        "jobSkills": ["React.js", "TypeScript", "SASS", "HTML", "CSS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 700000,
+        "maxSalary": 1000000,
+        "resumeTitle": "Sneha Patel",
+        "resumeSummary": "Frontend specialist with focus on React and modern CSS.",
+        "resumeSkills": ["React.js", "JavaScript", "HTML", "CSS", "SASS"],
+        "resumeExperience": [
+          {
+            "role": "UI Developer",
+            "company": "WebSolutions",
+            "startDate": "03/2022",
+            "endDate": "Present",
+            "description": "Building responsive web interfaces using React."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Delhi University",
+            "degree": "B.Tech Information Technology",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Specialized in web development and UI design."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 90,
+        "experienceScore": 75,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 80,
+        "matchScore": 85
+      },
+      {
+        "jobRole": "DevOps Engineer",
+        "jobDescription": "Manages cloud infrastructure and deployment pipelines.",
+        "jobSkills": ["Docker", "Kubernetes", "AWS", "Jenkins", "CI/CD"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Hyderabad",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Vikram Reddy",
+        "resumeSummary": "Experienced DevOps engineer specializing in container orchestration.",
+        "resumeSkills": ["Docker", "AWS", "Jenkins"],
+        "resumeExperience": [
+          {
+            "role": "DevOps Engineer",
+            "company": "CloudTech",
+            "startDate": "01/2020",
+            "endDate": "Present",
+            "description": "Managing cloud infrastructure and CI/CD pipelines."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIT Warangal",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2016",
+            "endDate": "06/2020",
+            "description": "Focus on cloud computing and DevOps practices."
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 60,
+        "experienceScore": 70,
+        "locationScore": 70,
+        "roleSimilarity": 80,
+        "educationScore": 75,
+        "matchScore": 69
+      },
+      {
+        "jobRole": "UI/UX Designer",
+        "jobDescription": "Creates user-centered design solutions for web and mobile applications.",
+        "jobSkills": ["Figma", "Adobe XD", "UI/UX", "Photoshop"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 600000,
+        "maxSalary": 900000,
+        "resumeTitle": "Ananya Shah",
+        "resumeSummary": "Creative designer focused on user experience and interface design.",
+        "resumeSkills": ["Figma", "UI/UX", "Photoshop"],
+        "resumeExperience": [
+          {
+            "role": "UI Designer",
+            "company": "DesignLabs",
+            "startDate": "08/2021",
+            "endDate": "Present",
+            "description": "Creating intuitive user interfaces for web applications."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NID Ahmedabad",
+            "degree": "B.Des User Experience Design",
+            "startDate": "07/2017",
+            "endDate": "06/2021",
+            "description": "Focused on interaction design and user research."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 75,
+        "experienceScore": 80,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 83
+      },
+      {
+        "jobRole": "Mobile Developer",
+        "jobDescription": "Develops native Android applications using Kotlin.",
+        "jobSkills": ["Kotlin", "Android", "Firebase", "GraphQL"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Remote",
+        "minSalary": 400000,
+        "maxSalary": 700000,
+        "resumeTitle": "Arjun Mehta",
+        "resumeSummary": "Recent graduate with internship experience in Android development.",
+        "resumeSkills": ["Java", "Android"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "VIT Vellore",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Specialized in mobile application development."
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 50,
+        "experienceScore": 30,
+        "locationScore": 100,
+        "roleSimilarity": 65,
+        "educationScore": 75,
+        "matchScore": 58
+      },
+      {
+        "jobRole": "Blockchain Developer",
+        "jobDescription": "Develops decentralized applications and smart contracts.",
+        "jobSkills": ["Blockchain", "Solidity", "JavaScript", "Node.js"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 1800000,
+        "maxSalary": 2500000,
+        "resumeTitle": "Rohit Jain",
+        "resumeSummary": "Blockchain expert with experience in DeFi projects.",
+        "resumeSkills": ["JavaScript", "Node.js", "Blockchain"],
+        "resumeExperience": [
+          {
+            "role": "Blockchain Developer",
+            "company": "CryptoTech",
+            "startDate": "01/2019",
+            "endDate": "Present",
+            "description": "Developing smart contracts and DApps."
+          },
+          {
+            "role": "Full Stack Developer",
+            "company": "WebSolutions",
+            "startDate": "06/2017",
+            "endDate": "12/2018",
+            "description": "Built web applications using JavaScript stack."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Delhi",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2013",
+            "endDate": "06/2017",
+            "description": "Focus on distributed systems and cryptography."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 75,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 80,
+        "matchScore": 85
+      },
+      {
+        "jobRole": "Cloud Architect",
+        "jobDescription": "Designs and implements cloud infrastructure solutions.",
+        "jobSkills": ["AWS", "Azure", "Docker", "Kubernetes", "DevOps"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Remote",
+        "minSalary": 2500000,
+        "maxSalary": 3500000,
+        "resumeTitle": "Vishal Malhotra",
+        "resumeSummary": "Experienced cloud architect with multi-cloud expertise.",
+        "resumeSkills": ["AWS", "Docker", "DevOps"],
+        "resumeExperience": [
+          {
+            "role": "Senior Cloud Architect",
+            "company": "CloudTech Solutions",
+            "startDate": "03/2020",
+            "endDate": "Present",
+            "description": "Leading cloud transformation initiatives."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "BITS Pilani",
+            "degree": "M.Tech Computer Science",
+            "startDate": "07/2012",
+            "endDate": "06/2014",
+            "description": "Specialized in distributed systems."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 60,
+        "experienceScore": 70,
+        "locationScore": 100,
+        "roleSimilarity": 75,
+        "educationScore": 80,
+        "matchScore": 74
+      },
+      {
+        "jobRole": "Data Engineer",
+        "jobDescription": "Builds and maintains data pipelines and warehouses.",
+        "jobSkills": ["Python", "SQL", "Apache Spark", "AWS", "PostgreSQL"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Hyderabad",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Neha Gupta",
+        "resumeSummary": "Data engineer specializing in ETL pipelines and warehousing.",
+        "resumeSkills": ["Python", "SQL", "PostgreSQL"],
+        "resumeExperience": [
+          {
+            "role": "Data Engineer",
+            "company": "DataTech",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Developing data pipelines and implementing ETL processes."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIT Surathkal",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Focus on database management and data engineering."
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 60,
+        "experienceScore": 70,
+        "locationScore": 70,
+        "roleSimilarity": 80,
+        "educationScore": 85,
+        "matchScore": 71
+      },{
+        "jobRole": "Systems Architect",
+        "jobDescription": "Designs and oversees implementation of complex IT systems.",
+        "jobSkills": ["Java", "AWS", "Kubernetes", "Docker", "DevOps"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Remote",
+        "minSalary": 2000000,
+        "maxSalary": 3000000,
+        "resumeTitle": "Karthik Krishnan",
+        "resumeSummary": "Experienced systems architect with cloud expertise.",
+        "resumeSkills": ["Java", "AWS", "DevOps"],
+        "resumeExperience": [
+          {
+            "role": "Senior Systems Architect",
+            "company": "TechSolutions Global",
+            "startDate": "01/2019",
+            "endDate": "Present",
+            "description": "Leading system design and cloud architecture initiatives."
+          },
+          {
+            "role": "Solutions Architect",
+            "company": "CloudTech Systems",
+            "startDate": "03/2016",
+            "endDate": "12/2018",
+            "description": "Designed scalable cloud solutions."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Kanpur",
+            "degree": "M.Tech Computer Science",
+            "startDate": "07/2014",
+            "endDate": "06/2016",
+            "description": "Specialized in distributed systems and cloud computing."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 70,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 85
+      },
+      {
+        "jobRole": "Game Developer",
+        "jobDescription": "Creates engaging gaming experiences using modern game engines.",
+        "jobSkills": ["Unity", "C++", "Game Development", "3D Modeling"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 300000,
+        "maxSalary": 500000,
+        "resumeTitle": "Arun Kumar",
+        "resumeSummary": "Fresh graduate with passion for game development.",
+        "resumeSkills": ["Unity", "C++"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Manipal Institute of Technology",
+            "degree": "B.Tech Game Design",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Focus on game development and 3D modeling."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 50,
+        "experienceScore": 40,
+        "locationScore": 70,
+        "roleSimilarity": 65,
+        "educationScore": 90,
+        "matchScore": 58
+      },
+      {
+        "jobRole": "Machine Learning Engineer",
+        "jobDescription": "Develops and deploys machine learning models.",
+        "jobSkills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "Data Science"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 1800000,
+        "maxSalary": 2500000,
+        "resumeTitle": "Anjali Desai",
+        "resumeSummary": "ML specialist with focus on deep learning applications.",
+        "resumeSkills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow"],
+        "resumeExperience": [
+          {
+            "role": "Senior ML Engineer",
+            "company": "AI Solutions Ltd",
+            "startDate": "04/2020",
+            "endDate": "Present",
+            "description": "Leading ML model development and deployment."
+          },
+          {
+            "role": "Data Scientist",
+            "company": "DataTech Analytics",
+            "startDate": "06/2018",
+            "endDate": "03/2020",
+            "description": "Developed predictive models using machine learning."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IISc Bangalore",
+            "degree": "M.Tech Artificial Intelligence",
+            "startDate": "07/2016",
+            "endDate": "06/2018",
+            "description": "Specialized in machine learning and neural networks."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 90,
+        "experienceScore": 85,
+        "locationScore": 100,
+        "roleSimilarity": 95,
+        "educationScore": 95,
+        "matchScore": 91
+      },
+      {
+        "jobRole": "Security Engineer",
+        "jobDescription": "Implements and maintains cybersecurity measures.",
+        "jobSkills": ["Cybersecurity", "Ethical Hacking", "Python", "AWS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Ravi Verma",
+        "resumeSummary": "Security professional with expertise in ethical hacking.",
+        "resumeSkills": ["Python", "Cybersecurity"],
+        "resumeExperience": [
+          {
+            "role": "Security Analyst",
+            "company": "CyberDefense Corp",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Conducting security audits and implementing security measures."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "BITS Pilani",
+            "degree": "B.Tech Information Security",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Specialized in network security and ethical hacking."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 50,
+        "experienceScore": 60,
+        "locationScore": 100,
+        "roleSimilarity": 75,
+        "educationScore": 85,
+        "matchScore": 69
+      },
+      {
+        "jobRole": "Mobile App Developer",
+        "jobDescription": "Develops iOS applications using Swift.",
+        "jobSkills": ["Swift", "iOS", "Firebase", "UI/UX"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 700000,
+        "maxSalary": 1100000,
+        "resumeTitle": "Priyanka Patel",
+        "resumeSummary": "iOS developer with focus on user experience.",
+        "resumeSkills": ["Swift", "UI/UX"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "DJ Sanghvi College of Engineering",
+            "degree": "B.E Computer Engineering",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Specialized in mobile application development."
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 50,
+        "experienceScore": 0,
+        "locationScore": 70,
+        "roleSimilarity": 65,
+        "educationScore": 75,
+        "matchScore": 45
+      },{
+        "jobRole": "Senior Software Engineer",
+        "jobDescription": "Leads development of enterprise applications using modern technologies.",
+        "jobSkills": ["Java", "Spring Boot", "AWS", "Kubernetes", "Docker"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1800000,
+        "maxSalary": 2500000,
+        "resumeTitle": "Aditya Sharma",
+        "resumeSummary": "Experienced software engineer with strong backend expertise.",
+        "resumeSkills": ["Java", "Spring Boot", "AWS", "Docker"],
+        "resumeExperience": [
+          {
+            "role": "Senior Software Engineer",
+            "company": "TechCorp",
+            "startDate": "01/2020",
+            "endDate": "Present",
+            "description": "Leading backend development team and cloud initiatives."
+          },
+          {
+            "role": "Software Engineer",
+            "company": "Digital Solutions",
+            "startDate": "06/2018",
+            "endDate": "12/2019",
+            "description": "Developed microservices using Spring Boot."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Bombay",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2014",
+            "endDate": "06/2018",
+            "description": "Focus on distributed systems and cloud computing."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 85,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 95,
+        "educationScore": 90,
+        "matchScore": 91
+      },
+      {
+        "jobRole": "Frontend Developer",
+        "jobDescription": "Creates responsive web applications using modern JavaScript frameworks.",
+        "jobSkills": ["React.js", "TypeScript", "HTML", "CSS", "SASS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 600000,
+        "maxSalary": 1000000,
+        "resumeTitle": "Priya Singh",
+        "resumeSummary": "Frontend specialist with focus on React and modern web technologies.",
+        "resumeSkills": ["React.js", "JavaScript", "HTML", "CSS"],
+        "resumeExperience": [
+          {
+            "role": "Frontend Developer",
+            "company": "WebTech",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Building responsive web interfaces using React."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "BITS Pilani",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Specialized in web technologies."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 80,
+        "experienceScore": 75,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 84
+      },
+      {
+        "jobRole": "Java Developer",
+        "jobDescription": "Develops enterprise applications using Java technologies.",
+        "jobSkills": ["Java", "Spring", "SQL", "MongoDB", "AWS"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Hyderabad",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Aditya",
+        "resumeSummary": "Experienced Java developer specializing in enterprise applications.",
+        "resumeSkills": ["Java", "SQL", "MongoDB", "AWS"],
+        "resumeExperience": [
+          {
+            "role": "Senior Java Developer",
+            "company": "TechCorp",
+            "startDate": "06/2019",
+            "endDate": "Present",
+            "description": "Led development of enterprise Java applications."
+          },
+          {
+            "role": "Java Developer",
+            "company": "InfoSys",
+            "startDate": "08/2017",
+            "endDate": "05/2019",
+            "description": "Developed and maintained Java-based systems."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIT Warangal",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2013",
+            "endDate": "06/2017",
+            "description": "Focus on Java programming and software engineering."
+          }
+        ],
+        "resumeLocation": "Hyderabad, India",
+        "skillsScore": 80,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 88
+      },
+      {
+        "jobRole": "Cloud Architect",
+        "jobDescription": "Designs and implements cloud infrastructure solutions.",
+        "jobSkills": ["AWS", "Azure", "GCP", "Kubernetes", "Docker", "DevOps"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Remote",
+        "minSalary": 2500000,
+        "maxSalary": 3500000,
+        "resumeTitle": "Rahul",
+        "resumeSummary": "Cloud solutions architect with multi-cloud expertise.",
+        "resumeSkills": ["AWS", "Azure", "Kubernetes", "Docker", "DevOps"],
+        "resumeExperience": [
+          {
+            "role": "Cloud Architect",
+            "company": "CloudWorks",
+            "startDate": "01/2018",
+            "endDate": "Present",
+            "description": "Architected large-scale cloud solutions."
+          },
+          {
+            "role": "DevOps Engineer",
+            "company": "TechSolutions",
+            "startDate": "03/2015",
+            "endDate": "12/2017",
+            "description": "Managed cloud infrastructure and CI/CD pipelines."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Delhi",
+            "degree": "M.Tech Computer Science",
+            "startDate": "07/2013",
+            "endDate": "06/2015",
+            "description": "Cloud computing and distributed systems."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 83,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 87
+      },
+      {
+        "jobRole": "Python Developer",
+        "jobDescription": "Develops backend services and automation scripts.",
+        "jobSkills": ["Python", "Django", "PostgreSQL", "Redis", "Docker"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Ishaan",
+        "resumeSummary": "Python developer with focus on web services.",
+        "resumeSkills": ["Python", "Django", "PostgreSQL"],
+        "resumeExperience": [
+          {
+            "role": "Python Developer",
+            "company": "WebTech",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Developed REST APIs using Django."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "BITS Goa",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Backend development and databases."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 60,
+        "experienceScore": 70,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 80,
+        "matchScore": 75
+      },
+      {
+        "jobRole": "Data Engineer",
+        "jobDescription": "Builds and maintains data pipelines and warehouses.",
+        "jobSkills": ["Python", "SQL", "Apache Spark", "Hadoop", "AWS"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1800000,
+        "maxSalary": 2400000,
+        "resumeTitle": "Ananya",
+        "resumeSummary": "Data engineer specialized in big data technologies.",
+        "resumeSkills": ["Python", "SQL", "Apache Spark", "AWS"],
+        "resumeExperience": [
+          {
+            "role": "Senior Data Engineer",
+            "company": "DataTech",
+            "startDate": "04/2020",
+            "endDate": "Present",
+            "description": "Built scalable data pipelines."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Madras",
+            "degree": "M.Tech Data Science",
+            "startDate": "07/2018",
+            "endDate": "06/2020",
+            "description": "Data engineering and analytics."
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 80,
+        "experienceScore": 65,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 80
+      },
+      {
+        "jobRole": "React Developer",
+        "jobDescription": "Creates responsive web applications using React.",
+        "jobSkills": ["React.js", "TypeScript", "JavaScript", "HTML", "CSS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 700000,
+        "maxSalary": 1100000,
+        "resumeTitle": "Kavya",
+        "resumeSummary": "Frontend developer with React expertise.",
+        "resumeSkills": ["React.js", "JavaScript", "HTML", "CSS"],
+        "resumeExperience": [
+          {
+            "role": "Frontend Developer",
+            "company": "WebStack",
+            "startDate": "01/2022",
+            "endDate": "Present",
+            "description": "Built React-based web applications."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Pune University",
+            "degree": "B.Tech IT",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Web development and UI/UX design."
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 80,
+        "experienceScore": 60,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 75,
+        "matchScore": 77
+      },
+      {
+        "jobRole": "ML Engineer",
+        "jobDescription": "Develops and deploys machine learning models.",
+        "jobSkills": ["Python", "TensorFlow", "Machine Learning", "Deep Learning", "AWS"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 2000000,
+        "maxSalary": 2800000,
+        "resumeTitle": "Varun",
+        "resumeSummary": "Recent graduate with ML projects.",
+        "resumeSkills": ["Python", "Machine Learning"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "IIT Roorkee",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Machine learning specialization."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 40,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 60,
+        "educationScore": 85,
+        "matchScore": 48
+      },
+      {
+        "jobRole": "UI/UX Designer",
+        "jobDescription": "Creates user-centered digital experiences.",
+        "jobSkills": ["Figma", "Adobe XD", "UI/UX", "HTML", "CSS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Tanya",
+        "resumeSummary": "Junior designer learning UI/UX.",
+        "resumeSkills": ["Figma"],
+        "resumeExperience": [
+          {
+            "role": "UI Designer Intern",
+            "company": "DesignLab",
+            "startDate": "01/2024",
+            "endDate": "Present",
+            "description": "Creating user interfaces."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIFT Delhi",
+            "degree": "B.Des Design",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Digital design principles."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 20,
+        "experienceScore": 30,
+        "locationScore": 70,
+        "roleSimilarity": 65,
+        "educationScore": 80,
+        "matchScore": 47
+      },
+      {
+        "jobRole": "Backend Developer",
+        "jobDescription": "Develops server-side applications and APIs.",
+        "jobSkills": ["Go", "PostgreSQL", "Docker", "Kubernetes", "AWS"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1500000,
+        "maxSalary": 2000000,
+        "resumeTitle": "Aryan",
+        "resumeSummary": "Learning Go programming.",
+        "resumeSkills": ["Go", "PostgreSQL"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "VIT Vellore",
+            "degree": "B.Tech CSE",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Backend development basics."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 40,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 60,
+        "educationScore": 75,
+        "matchScore": 50
+      },
+      {
+        "jobRole": "iOS Developer",
+        "jobDescription": "Develops native iOS applications.",
+        "jobSkills": ["Swift", "iOS", "Firebase", "REST APIs"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Chennai",
+        "minSalary": 900000,
+        "maxSalary": 1400000,
+        "resumeTitle": "Rohan",
+        "resumeSummary": "Beginner mobile developer.",
+        "resumeSkills": ["Swift"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "SRM Chennai",
+            "degree": "B.Tech IT",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Mobile app development."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 25,
+        "experienceScore": 0,
+        "locationScore": 70,
+        "roleSimilarity": 60,
+        "educationScore": 75,
+        "matchScore": 42
+      },
+      {
+        "jobRole": "DevSecOps Engineer",
+        "jobDescription": "Implements security in CI/CD pipeline.",
+        "jobSkills": ["DevOps", "Cybersecurity", "Docker", "Jenkins", "AWS"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1800000,
+        "maxSalary": 2400000,
+        "resumeTitle": "Vedant",
+        "resumeSummary": "Recent graduate interested in DevOps.",
+        "resumeSkills": ["Docker", "AWS"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "DTU Delhi",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Cloud computing and security."
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 40,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 50,
+        "educationScore": 75,
+        "matchScore": 45
+      },
+      {
+        "jobRole": "Ruby Developer",
+        "jobDescription": "Develops web applications using Ruby on Rails framework.",
+        "jobSkills": ["Ruby", "Rails", "PostgreSQL", "Redis", "JavaScript"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 900000,
+        "maxSalary": 1400000,
+        "resumeTitle": "Nikhil",
+        "resumeSummary": "Experienced Ruby developer with strong Rails expertise.",
+        "resumeSkills": ["Ruby", "Rails", "PostgreSQL", "JavaScript"],
+        "resumeExperience": [
+          {
+            "role": "Ruby Developer",
+            "company": "WebRails",
+            "startDate": "03/2022",
+            "endDate": "Present",
+            "description": "Developed and maintained Rails applications."
+          },
+          {
+            "role": "Junior Developer",
+            "company": "TechStart",
+            "startDate": "06/2021",
+            "endDate": "02/2022",
+            "description": "Full-stack development with Ruby."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIIT Bangalore",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2017",
+            "endDate": "06/2021",
+            "description": "Web development and software engineering."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 80,
+        "experienceScore": 85,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 86
+      },
+      {
+        "jobRole": "GraphQL Developer",
+        "jobDescription": "Builds efficient APIs using GraphQL technology.",
+        "jobSkills": ["GraphQL", "Node.js", "MongoDB", "TypeScript", "Apollo"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Shreya",
+        "resumeSummary": "API developer specializing in GraphQL implementations.",
+        "resumeSkills": ["GraphQL", "Node.js", "MongoDB", "TypeScript"],
+        "resumeExperience": [
+          {
+            "role": "Backend Developer",
+            "company": "APITech",
+            "startDate": "01/2022",
+            "endDate": "Present",
+            "description": "Building scalable GraphQL APIs."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "COEP Pune",
+            "degree": "M.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2022",
+            "description": "Advanced API development."
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 80,
+        "experienceScore": 75,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 80,
+        "matchScore": 82
+      },
+      {
+        "jobRole": "R&D Engineer",
+        "jobDescription": "Researches and develops ML algorithms for computer vision.",
+        "jobSkills": ["Python", "Machine Learning", "OpenCV", "TensorFlow", "Research"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 2000000,
+        "maxSalary": 2800000,
+        "resumeTitle": "Mihir",
+        "resumeSummary": "Research engineer focusing on computer vision applications.",
+        "resumeSkills": ["Python", "Machine Learning", "OpenCV", "TensorFlow"],
+        "resumeExperience": [
+          {
+            "role": "Research Engineer",
+            "company": "VisionAI",
+            "startDate": "07/2019",
+            "endDate": "Present",
+            "description": "Developing computer vision algorithms."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IISc Bangalore",
+            "degree": "M.Tech Computer Vision",
+            "startDate": "07/2017",
+            "endDate": "06/2019",
+            "description": "Computer vision and deep learning."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 80,
+        "experienceScore": 70,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 90,
+        "matchScore": 83
+      },
+      {
+        "jobRole": "Scala Developer",
+        "jobDescription": "Develops distributed applications using Scala.",
+        "jobSkills": ["Scala", "Akka", "Play Framework", "SQL", "AWS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Pranav",
+        "resumeSummary": "Backend developer with Scala expertise.",
+        "resumeSkills": ["Scala", "Play Framework", "SQL"],
+        "resumeExperience": [
+          {
+            "role": "Scala Developer",
+            "company": "DataSystems",
+            "startDate": "08/2022",
+            "endDate": "Present",
+            "description": "Building scalable backend services."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Bombay",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Distributed systems and programming."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 60,
+        "experienceScore": 70,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 85,
+        "matchScore": 76
+      },
+      {
+        "jobRole": "Rust Developer",
+        "jobDescription": "Develops high-performance system applications.",
+        "jobSkills": ["Rust", "C++", "Systems Programming", "Docker"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 1500000,
+        "maxSalary": 2000000,
+        "resumeTitle": "Arun",
+        "resumeSummary": "Systems programmer with Rust and C++ experience.",
+        "resumeSkills": ["Rust", "C++", "Docker"],
+        "resumeExperience": [
+          {
+            "role": "Systems Developer",
+            "company": "TechSys",
+            "startDate": "06/2022",
+            "endDate": "Present",
+            "description": "Developing system-level applications."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIIT Hyderabad",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Systems programming and architecture."
+          }
+        ],
+        "resumeLocation": "Hyderabad, India",
+        "skillsScore": 75,
+        "experienceScore": 65,
+        "locationScore": 100,
+        "roleSimilarity": 80,
+        "educationScore": 80,
+        "matchScore": 77
+      },
+      {
+        "jobRole": "PHP Developer",
+        "jobDescription": "Develops web applications using PHP frameworks.",
+        "jobSkills": ["PHP", "Laravel", "MySQL", "JavaScript", "Redis"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Delhi",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Kunal",
+        "resumeSummary": "Junior web developer learning PHP.",
+        "resumeSkills": ["PHP", "MySQL"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Delhi University",
+            "degree": "BCA",
+            "startDate": "07/2021",
+            "endDate": "Present",
+            "description": "Web development fundamentals."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 40,
+        "experienceScore": 0,
+        "locationScore": 70,
+        "roleSimilarity": 60,
+        "educationScore": 70,
+        "matchScore": 44
+      },
+      {
+        "jobRole": "Dart Developer",
+        "jobDescription": "Develops cross-platform mobile applications.",
+        "jobSkills": ["Dart", "Flutter", "Firebase", "REST APIs"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Riya",
+        "resumeSummary": "Mobile app enthusiast learning Flutter.",
+        "resumeSkills": ["Dart"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Manipal University",
+            "degree": "B.Tech IT",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Mobile application development."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 25,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 75,
+        "matchScore": 46
+      },
+      {
+        "jobRole": "Perl Developer",
+        "jobDescription": "Maintains legacy systems and scripts.",
+        "jobSkills": ["Perl", "Shell Scripting", "Linux", "MySQL"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Onsite, India, Chennai",
+        "minSalary": 1800000,
+        "maxSalary": 2400000,
+        "resumeTitle": "Abhishek",
+        "resumeSummary": "Recent graduate with basic scripting knowledge.",
+        "resumeSkills": ["Shell Scripting", "Linux"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Anna University",
+            "degree": "B.Tech IT",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "System administration basics."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 50,
+        "experienceScore": 0,
+        "locationScore": 70,
+        "roleSimilarity": 50,
+        "educationScore": 70,
+        "matchScore": 43
+      },
+      {
+        "jobRole": "MATLAB Developer",
+        "jobDescription": "Develops scientific computing applications.",
+        "jobSkills": ["MATLAB", "Simulink", "Python", "Statistics"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1500000,
+        "maxSalary": 2000000,
+        "resumeTitle": "Sneha",
+        "resumeSummary": "Entry-level programmer with MATLAB basics.",
+        "resumeSkills": ["MATLAB"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "VIT Chennai",
+            "degree": "B.Tech ECE",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Signal processing and MATLAB."
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 25,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 60,
+        "educationScore": 75,
+        "matchScore": 45
+      },
+      {
+        "jobRole": "Blockchain Engineer",
+        "jobDescription": "Develops smart contracts and blockchain applications.",
+        "jobSkills": ["Solidity", "Ethereum", "Web3.js", "JavaScript", "Smart Contracts"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Vijay",
+        "resumeSummary": "Web developer interested in blockchain.",
+        "resumeSkills": ["JavaScript", "Web3.js"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "PES University",
+            "degree": "B.Tech CSE",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Web development and blockchain basics."
+          }
+        ],
+        "resumeLocation": "Mysore, India",
+        "skillsScore": 40,
+        "experienceScore": 0,
+        "locationScore": 70,
+        "roleSimilarity": 60,
+        "educationScore": 75,
+        "matchScore": 47
+      },
+      {
+        "jobRole": "Full Stack Developer",
+        "jobDescription": "Build and maintain web applications using modern technologies.",
+        "jobSkills": ["JavaScript", "React.js", "Node.js", "MongoDB", "TypeScript"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Priya",
+        "resumeSummary": "Full stack developer with expertise in MERN stack and TypeScript.",
+        "resumeSkills": ["JavaScript", "React.js", "Node.js", "MongoDB"],
+        "resumeExperience": [
+          {
+            "role": "Full Stack Developer",
+            "company": "TechCorp",
+            "startDate": "03/2021",
+            "endDate": "Present",
+            "description": "Developed and maintained web applications using MERN stack."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "VIT Vellore",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2017",
+            "endDate": "06/2021",
+            "description": "Full stack development and web technologies"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 80,
+        "experienceScore": 75,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 84
+      },
+      {
+        "jobRole": "Data Scientist",
+        "jobDescription": "Analyze complex data sets and build predictive models.",
+        "jobSkills": ["Python", "R", "Machine Learning", "Deep Learning", "MATLAB"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1500000,
+        "maxSalary": 2000000,
+        "resumeTitle": "Arjun",
+        "resumeSummary": "Data scientist with focus on machine learning applications.",
+        "resumeSkills": ["Python", "R", "Machine Learning"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "IIT Madras",
+            "degree": "M.Tech Data Science",
+            "startDate": "07/2022",
+            "endDate": "06/2024",
+            "description": "Advanced machine learning and statistical analysis"
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 60,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 90,
+        "matchScore": 55
+      },
+      {
+        "jobRole": "DevOps Engineer",
+        "jobDescription": "Manage CI/CD pipelines and cloud infrastructure.",
+        "jobSkills": ["Docker", "Kubernetes", "AWS", "Jenkins", "CI/CD"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 900000,
+        "maxSalary": 1400000,
+        "resumeTitle": "Rahul",
+        "resumeSummary": "DevOps engineer specializing in containerization and cloud services.",
+        "resumeSkills": ["Docker", "AWS", "Jenkins", "CI/CD"],
+        "resumeExperience": [
+          {
+            "role": "DevOps Engineer",
+            "company": "CloudTech",
+            "startDate": "01/2022",
+            "endDate": "Present",
+            "description": "Managing cloud infrastructure and CI/CD pipelines."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "BITS Pilani",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Cloud computing and DevOps practices"
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 80,
+        "experienceScore": 70,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 80,
+        "matchScore": 81
+      },
+      {
+        "jobRole": "Frontend Developer",
+        "jobDescription": "Create responsive and user-friendly web interfaces.",
+        "jobSkills": ["React.js", "TypeScript", "HTML", "CSS", "SASS"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Remote",
+        "minSalary": 400000,
+        "maxSalary": 600000,
+        "resumeTitle": "Neha",
+        "resumeSummary": "Fresh graduate with internship experience in frontend development.",
+        "resumeSkills": ["HTML", "CSS", "React.js"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "SRM University",
+            "degree": "B.Tech Information Technology",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Web development and UI design"
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 60,
+        "experienceScore": 50,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 75,
+        "matchScore": 68
+      },
+      {
+        "jobRole": "Backend Developer",
+        "jobDescription": "Design and implement scalable server-side solutions.",
+        "jobSkills": ["Java", "Spring Boot", "PostgreSQL", "Docker", "AWS"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 2000000,
+        "maxSalary": 2800000,
+        "resumeTitle": "Anil",
+        "resumeSummary": "Senior backend developer with extensive Java experience.",
+        "resumeSkills": ["Java", "PostgreSQL", "AWS"],
+        "resumeExperience": [
+          {
+            "role": "Senior Backend Developer",
+            "company": "FinTech Solutions",
+            "startDate": "06/2015",
+            "endDate": "Present",
+            "description": "Leading backend development team and architecture decisions."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIT Trichy",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2011",
+            "endDate": "06/2015",
+            "description": "Backend development and distributed systems"
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 60,
+        "experienceScore": 100,
+        "locationScore": 70,
+        "roleSimilarity": 85,
+        "educationScore": 80,
+        "matchScore": 77
+      },
+      {
+        "jobRole": "Mobile Developer",
+        "jobDescription": "Develop native Android applications.",
+        "jobSkills": ["Kotlin", "Java", "Android SDK", "Firebase"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 700000,
+        "maxSalary": 1100000,
+        "resumeTitle": "Vikram",
+        "resumeSummary": "Android developer with experience in Kotlin and Java.",
+        "resumeSkills": ["Java"],
+        "resumeExperience": [
+          {
+            "role": "Junior Android Developer",
+            "company": "MobileTech",
+            "startDate": "07/2023",
+            "endDate": "Present",
+            "description": "Developing Android applications using Java."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Manipal Institute of Technology",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Mobile application development"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 25,
+        "experienceScore": 40,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 80,
+        "matchScore": 54
+      },
+      {
+        "jobRole": "Cloud Solutions Architect",
+        "jobDescription": "Design and implement cloud-based solutions.",
+        "jobSkills": ["AWS", "Azure", "GCP", "Kubernetes", "Docker"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 2500000,
+        "maxSalary": 3500000,
+        "resumeTitle": "Deepak",
+        "resumeSummary": "Solutions architect with multi-cloud expertise.",
+        "resumeSkills": ["AWS", "Docker"],
+        "resumeExperience": [
+          {
+            "role": "Cloud Engineer",
+            "company": "CloudSys",
+            "startDate": "01/2020",
+            "endDate": "Present",
+            "description": "Designing and implementing cloud solutions."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Kharagpur",
+            "degree": "M.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2020",
+            "description": "Cloud computing and distributed systems"
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 40,
+        "experienceScore": 60,
+        "locationScore": 70,
+        "roleSimilarity": 75,
+        "educationScore": 85,
+        "matchScore": 58
+      },
+      {
+        "jobRole": "Database Administrator",
+        "jobDescription": "Manage and optimize database performance.",
+        "jobSkills": ["MySQL", "PostgreSQL", "MongoDB", "SQL"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Sneha",
+        "resumeSummary": "Database specialist with focus on performance optimization.",
+        "resumeSkills": ["SQL", "MySQL"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Delhi Technical University",
+            "degree": "B.Tech Information Technology",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Database management and optimization"
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 50,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 80,
+        "matchScore": 52
+      },
+      {
+        "jobRole": "Security Engineer",
+        "jobDescription": "Implement and maintain security measures.",
+        "jobSkills": ["Cybersecurity", "Ethical Hacking", "Python", "AWS"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Delhi",
+        "minSalary": 1500000,
+        "maxSalary": 2200000,
+        "resumeTitle": "Akash",
+        "resumeSummary": "Security professional with ethical hacking certification.",
+        "resumeSkills": ["Python", "Cybersecurity", "AWS"],
+        "resumeExperience": [
+          {
+            "role": "Security Analyst",
+            "company": "SecureNet",
+            "startDate": "01/2019",
+            "endDate": "Present",
+            "description": "Managing security infrastructure and conducting audits."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Delhi",
+            "degree": "M.Tech Information Security",
+            "startDate": "07/2017",
+            "endDate": "06/2019",
+            "description": "Cybersecurity and network security"
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 75,
+        "experienceScore": 80,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 83
+      },
+      {
+        "jobRole": "UI/UX Designer",
+        "jobDescription": "Create intuitive user interfaces and experiences.",
+        "jobSkills": ["Figma", "Adobe XD", "UI/UX", "HTML", "CSS"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Remote",
+        "minSalary": 400000,
+        "maxSalary": 600000,
+        "resumeTitle": "Maya",
+        "resumeSummary": "Fresh graduate with passion for user-centered design.",
+        "resumeSkills": ["Figma"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "National Institute of Design",
+            "degree": "B.Des UI/UX Design",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "User interface design and user experience"
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 20,
+        "experienceScore": 50,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 90,
+        "matchScore": 57
+      },
+      {
+        "jobRole": "Machine Learning Engineer",
+        "jobDescription": "Develop and deploy machine learning models at scale.",
+        "jobSkills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "AWS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Rohan",
+        "resumeSummary": "ML engineer specialized in deep learning and deployment.",
+        "resumeSkills": ["Python", "Machine Learning", "Deep Learning", "AWS"],
+        "resumeExperience": [
+          {
+            "role": "ML Engineer",
+            "company": "AITech",
+            "startDate": "07/2021",
+            "endDate": "Present",
+            "description": "Developing and deploying ML models for production."
+          },
+          {
+            "role": "Data Scientist",
+            "company": "DataCorp",
+            "startDate": "01/2020",
+            "endDate": "06/2021",
+            "description": "Built predictive models for customer behavior."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Bombay",
+            "degree": "M.Tech Artificial Intelligence",
+            "startDate": "07/2018",
+            "endDate": "06/2020",
+            "description": "Deep learning and neural networks"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 80,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 87
+      },
+      {
+        "jobRole": "JavaScript Developer",
+        "jobDescription": "Build modern web applications using JavaScript frameworks.",
+        "jobSkills": ["JavaScript", "TypeScript", "React.js", "Node.js"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Remote",
+        "minSalary": 500000,
+        "maxSalary": 700000,
+        "resumeTitle": "Anita",
+        "resumeSummary": "Fresh graduate with JavaScript and React internship experience.",
+        "resumeSkills": ["JavaScript", "React.js"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "VIT Chennai",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Web development and JavaScript frameworks"
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 50,
+        "experienceScore": 50,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 80,
+        "matchScore": 65
+      },
+      {
+        "jobRole": "Blockchain Developer",
+        "jobDescription": "Develop decentralized applications and smart contracts.",
+        "jobSkills": ["Blockchain", "JavaScript", "Solidity", "Node.js"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 2000000,
+        "maxSalary": 2800000,
+        "resumeTitle": "Sandeep",
+        "resumeSummary": "Blockchain enthusiast with basic development experience.",
+        "resumeSkills": ["JavaScript", "Node.js"],
+        "resumeExperience": [
+          {
+            "role": "Web Developer",
+            "company": "WebTech",
+            "startDate": "01/2023",
+            "endDate": "Present",
+            "description": "Building web applications using JavaScript."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Mumbai University",
+            "degree": "B.Tech Information Technology",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Web development and blockchain basics"
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 50,
+        "experienceScore": 30,
+        "locationScore": 70,
+        "roleSimilarity": 60,
+        "educationScore": 75,
+        "matchScore": 53
+      },
+      {
+        "jobRole": "Ruby Developer",
+        "jobDescription": "Build and maintain Ruby on Rails applications.",
+        "jobSkills": ["Ruby", "Ruby on Rails", "PostgreSQL", "Redis"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Kavita",
+        "resumeSummary": "Full stack Ruby developer with Rails expertise.",
+        "resumeSkills": ["Ruby", "PostgreSQL"],
+        "resumeExperience": [
+          {
+            "role": "Ruby Developer",
+            "company": "RailsTech",
+            "startDate": "06/2021",
+            "endDate": "Present",
+            "description": "Developing Ruby on Rails applications."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIT Surathkal",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2017",
+            "endDate": "06/2021",
+            "description": "Web development and Ruby programming"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 50,
+        "experienceScore": 80,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 80,
+        "matchScore": 76
+      },
+      {
+        "jobRole": "DevOps Engineer",
+        "jobDescription": "Implement and maintain CI/CD pipelines.",
+        "jobSkills": ["Jenkins", "Docker", "AWS", "Kubernetes", "CI/CD"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Onsite, India, Delhi",
+        "minSalary": 2500000,
+        "maxSalary": 3500000,
+        "resumeTitle": "Amit",
+        "resumeSummary": "Senior DevOps engineer with extensive automation experience.",
+        "resumeSkills": ["Jenkins", "Docker", "AWS", "CI/CD"],
+        "resumeExperience": [
+          {
+            "role": "Senior DevOps Engineer",
+            "company": "CloudOps",
+            "startDate": "01/2015",
+            "endDate": "Present",
+            "description": "Leading DevOps practices and cloud infrastructure."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "DTU Delhi",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2011",
+            "endDate": "06/2015",
+            "description": "Cloud computing and automation"
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 80,
+        "matchScore": 89
+      },
+      {
+        "jobRole": "Go Developer",
+        "jobDescription": "Build scalable microservices using Go.",
+        "jobSkills": ["Go", "Docker", "Kubernetes", "gRPC"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Ravi",
+        "resumeSummary": "Backend developer learning Go.",
+        "resumeSkills": ["Go"],
+        "resumeExperience": [
+          {
+            "role": "Junior Developer",
+            "company": "StartupTech",
+            "startDate": "01/2023",
+            "endDate": "Present",
+            "description": "Learning and implementing Go microservices."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "BITS Goa",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Backend development and microservices"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 25,
+        "experienceScore": 40,
+        "locationScore": 100,
+        "roleSimilarity": 60,
+        "educationScore": 80,
+        "matchScore": 54
+      },
+      {
+        "jobRole": "Data Engineer",
+        "jobDescription": "Build and maintain data pipelines.",
+        "jobSkills": ["Python", "SQL", "Apache Spark", "AWS", "Airflow"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Hyderabad",
+        "minSalary": 1800000,
+        "maxSalary": 2500000,
+        "resumeTitle": "Vivek",
+        "resumeSummary": "Data engineer with expertise in ETL pipelines.",
+        "resumeSkills": ["Python", "SQL", "AWS"],
+        "resumeExperience": [
+          {
+            "role": "Data Engineer",
+            "company": "DataFlow",
+            "startDate": "07/2018",
+            "endDate": "Present",
+            "description": "Building and optimizing data pipelines."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIIT Hyderabad",
+            "degree": "M.Tech Data Science",
+            "startDate": "07/2016",
+            "endDate": "06/2018",
+            "description": "Data engineering and analytics"
+          }
+        ],
+        "resumeLocation": "Hyderabad, India",
+        "skillsScore": 60,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 82
+      },
+      {
+        "jobRole": "PHP Developer",
+        "jobDescription": "Maintain and optimize PHP applications.",
+        "jobSkills": ["PHP", "MySQL", "Laravel", "JavaScript"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Remote",
+        "minSalary": 300000,
+        "maxSalary": 500000,
+        "resumeTitle": "Suresh",
+        "resumeSummary": "Fresh graduate with PHP internship.",
+        "resumeSkills": ["PHP"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Anna University",
+            "degree": "B.Tech Information Technology",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Web development and PHP programming"
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 25,
+        "experienceScore": 50,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 80,
+        "matchScore": 58
+      },
+      {
+        "jobRole": "iOS Developer",
+        "jobDescription": "Develop native iOS applications.",
+        "jobSkills": ["Swift", "iOS SDK", "Core Data", "Firebase"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 900000,
+        "maxSalary": 1400000,
+        "resumeTitle": "Priyanka",
+        "resumeSummary": "iOS developer with Swift expertise.",
+        "resumeSkills": ["Swift", "iOS SDK", "Firebase"],
+        "resumeExperience": [
+          {
+            "role": "iOS Developer",
+            "company": "AppTech",
+            "startDate": "03/2022",
+            "endDate": "Present",
+            "description": "Developing iOS applications using Swift."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Pune University",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Mobile application development"
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 75,
+        "experienceScore": 70,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 81
+      },
+      {
+        "jobRole": "Rust Developer",
+        "jobDescription": "Build high-performance systems using Rust.",
+        "jobSkills": ["Rust", "C++", "WebAssembly", "Docker"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 2000000,
+        "maxSalary": 2800000,
+        "resumeTitle": "Arun",
+        "resumeSummary": "Systems programmer with C++ background.",
+        "resumeSkills": ["C++"],
+        "resumeExperience": [
+          {
+            "role": "Systems Developer",
+            "company": "SystemTech",
+            "startDate": "01/2021",
+            "endDate": "Present",
+            "description": "Developing high-performance systems."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Kanpur",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2017",
+            "endDate": "06/2021",
+            "description": "Systems programming and algorithms"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 25,
+        "experienceScore": 60,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 80,
+        "matchScore": 59
+      },
+      {
+        "jobRole": "GraphQL Developer",
+        "jobDescription": "Build and optimize GraphQL APIs for web applications.",
+        "jobSkills": ["GraphQL", "Node.js", "MongoDB", "TypeScript", "React.js"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Varun",
+        "resumeSummary": "Full stack developer with GraphQL expertise.",
+        "resumeSkills": ["GraphQL", "Node.js", "MongoDB", "React.js"],
+        "resumeExperience": [
+          {
+            "role": "Backend Developer",
+            "company": "APITech",
+            "startDate": "03/2021",
+            "endDate": "Present",
+            "description": "Developing GraphQL APIs and backend services."
+          },
+          {
+            "role": "Junior Developer",
+            "company": "WebSolutions",
+            "startDate": "06/2020",
+            "endDate": "02/2021",
+            "description": "Working with REST APIs and Node.js."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIT Warangal",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2016",
+            "endDate": "06/2020",
+            "description": "Web development and API design"
+          }
+        ],
+        "resumeLocation": "Hyderabad, India",
+        "skillsScore": 80,
+        "experienceScore": 85,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 86
+      },
+      {
+        "jobRole": "Game Developer",
+        "jobDescription": "Create engaging game experiences using Unity.",
+        "jobSkills": ["Unity", "C#", "3D Modeling", "Game Development"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 400000,
+        "maxSalary": 600000,
+        "resumeTitle": "Divya",
+        "resumeSummary": "Fresh graduate with passion for game development.",
+        "resumeSkills": ["Unity", "C#"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "Manipal University",
+            "degree": "B.Tech Game Design",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Game development and 3D modeling"
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 50,
+        "experienceScore": 50,
+        "locationScore": 70,
+        "roleSimilarity": 80,
+        "educationScore": 90,
+        "matchScore": 64
+      },
+      {
+        "jobRole": "React Native Developer",
+        "jobDescription": "Build cross-platform mobile applications.",
+        "jobSkills": ["React.js", "React Native", "JavaScript", "TypeScript", "Firebase"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Aisha",
+        "resumeSummary": "Mobile developer with web background.",
+        "resumeSkills": ["React.js", "JavaScript"],
+        "resumeExperience": [
+          {
+            "role": "Frontend Developer",
+            "company": "MobileTech",
+            "startDate": "01/2023",
+            "endDate": "Present",
+            "description": "Building web applications using React."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "BITS Dubai",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Web and mobile development"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 40,
+        "experienceScore": 50,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 80,
+        "matchScore": 59
+      },
+      {
+        "jobRole": "Technical Lead",
+        "jobDescription": "Lead development team and architect solutions.",
+        "jobSkills": ["Java", "Spring Boot", "AWS", "Kubernetes", "MongoDB"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 2800000,
+        "maxSalary": 3500000,
+        "resumeTitle": "Rajesh",
+        "resumeSummary": "Senior developer with team leadership experience.",
+        "resumeSkills": ["Java", "Spring Boot", "AWS", "MongoDB"],
+        "resumeExperience": [
+          {
+            "role": "Senior Developer",
+            "company": "TechCorp",
+            "startDate": "01/2016",
+            "endDate": "Present",
+            "description": "Leading development team and architecture decisions."
+          },
+          {
+            "role": "Software Developer",
+            "company": "InfoTech",
+            "startDate": "06/2014",
+            "endDate": "12/2015",
+            "description": "Backend development with Java."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Madras",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2010",
+            "endDate": "06/2014",
+            "description": "Software engineering and system design"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 90
+      },
+      {
+        "jobRole": "MATLAB Developer",
+        "jobDescription": "Develop scientific computing solutions.",
+        "jobSkills": ["MATLAB", "Python", "R", "Data Science"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1500000,
+        "maxSalary": 2000000,
+        "resumeTitle": "Meera",
+        "resumeSummary": "Researcher with programming experience.",
+        "resumeSkills": ["Python", "R"],
+        "resumeExperience": [
+          {
+            "role": "Research Assistant",
+            "company": "ResearchLab",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Scientific computing and data analysis."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IISc Bangalore",
+            "degree": "M.Tech Computational Science",
+            "startDate": "07/2020",
+            "endDate": "06/2022",
+            "description": "Scientific computing and algorithms"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 50,
+        "experienceScore": 40,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 85,
+        "matchScore": 58
+      },
+      {
+        "jobRole": "Scala Developer",
+        "jobDescription": "Build distributed systems using Scala.",
+        "jobSkills": ["Scala", "Akka", "Apache Spark", "Java"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Chennai",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Kiran",
+        "resumeSummary": "Java developer learning Scala.",
+        "resumeSkills": ["Java"],
+        "resumeExperience": [
+          {
+            "role": "Software Developer",
+            "company": "JavaTech",
+            "startDate": "01/2022",
+            "endDate": "Present",
+            "description": "Java backend development."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Anna University",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Java programming and distributed systems"
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 25,
+        "experienceScore": 60,
+        "locationScore": 70,
+        "roleSimilarity": 65,
+        "educationScore": 80,
+        "matchScore": 55
+      },
+      {
+        "jobRole": "Kotlin Developer",
+        "jobDescription": "Develop Android applications using Kotlin.",
+        "jobSkills": ["Kotlin", "Android SDK", "Firebase", "Java"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Shreya",
+        "resumeSummary": "Android developer with Kotlin expertise.",
+        "resumeSkills": ["Kotlin", "Android SDK", "Firebase"],
+        "resumeExperience": [
+          {
+            "role": "Android Developer",
+            "company": "MobileApps",
+            "startDate": "06/2021",
+            "endDate": "Present",
+            "description": "Developing Android applications using Kotlin."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "VIT Vellore",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2017",
+            "endDate": "06/2021",
+            "description": "Mobile application development"
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 75,
+        "experienceScore": 80,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 85,
+        "matchScore": 83
+      },
+      {
+        "jobRole": "Perl Developer",
+        "jobDescription": "Maintain legacy systems using Perl.",
+        "jobSkills": ["Perl", "Shell Scripting", "MySQL", "Linux"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Nikhil",
+        "resumeSummary": "System administrator with scripting experience.",
+        "resumeSkills": ["Shell Scripting", "Linux"],
+        "resumeExperience": [
+          {
+            "role": "System Administrator",
+            "company": "TechOps",
+            "startDate": "01/2021",
+            "endDate": "Present",
+            "description": "Managing Linux systems and automation."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Mumbai University",
+            "degree": "B.Tech Information Technology",
+            "startDate": "07/2017",
+            "endDate": "06/2021",
+            "description": "System administration and networking"
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 50,
+        "experienceScore": 60,
+        "locationScore": 70,
+        "roleSimilarity": 65,
+        "educationScore": 75,
+        "matchScore": 57
+      },
+      {
+        "jobRole": "Dart Developer",
+        "jobDescription": "Build cross-platform applications using Flutter.",
+        "jobSkills": ["Dart", "Flutter", "Firebase", "REST APIs"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Remote",
+        "minSalary": 400000,
+        "maxSalary": 600000,
+        "resumeTitle": "Aarav",
+        "resumeSummary": "Fresh graduate with Flutter projects.",
+        "resumeSkills": ["Dart", "Flutter"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "DTU Delhi",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Mobile application development"
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 50,
+        "experienceScore": 50,
+        "locationScore": 100,
+        "roleSimilarity": 80,
+        "educationScore": 85,
+        "matchScore": 68
+      },
+      {
+        "jobRole": "Cybersecurity Analyst",
+        "jobDescription": "Implement security measures and conduct audits.",
+        "jobSkills": ["Cybersecurity", "Ethical Hacking", "Python", "AWS"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Delhi",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Aryan",
+        "resumeSummary": "Security enthusiast with basic experience.",
+        "resumeSkills": ["Python", "AWS"],
+        "resumeExperience": [
+          {
+            "role": "Junior Security Analyst",
+            "company": "SecureNet",
+            "startDate": "01/2023",
+            "endDate": "Present",
+            "description": "Basic security analysis and monitoring."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIIT Delhi",
+            "degree": "B.Tech Information Security",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Cybersecurity and network security"
+          }
+        ],
+        "resumeLocation": "Noida, India",
+        "skillsScore": 50,
+        "experienceScore": 40,
+        "locationScore": 80,
+        "roleSimilarity": 70,
+        "educationScore": 90,
+        "matchScore": 59
+      },
+      {
+        "jobRole": "Full Stack Developer",
+        "jobDescription": "Develops and maintains web applications using modern frameworks.",
+        "jobSkills": ["JavaScript", "React.js", "Node.js", "MongoDB", "TypeScript"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 800000,
+        "maxSalary": 1200000,
+        "resumeTitle": "Priya",
+        "resumeSummary": "Full stack developer with expertise in modern JavaScript frameworks.",
+        "resumeSkills": ["JavaScript", "React.js", "Node.js", "MongoDB"],
+        "resumeExperience": [
+          {
+            "role": "Full Stack Developer",
+            "company": "WebTech Solutions",
+            "startDate": "03/2021",
+            "endDate": "Present",
+            "description": "Building scalable web applications using MERN stack."
+          },
+          {
+            "role": "Frontend Developer",
+            "company": "DigiCorp",
+            "startDate": "06/2020",
+            "endDate": "02/2021",
+            "description": "Developed responsive user interfaces using React."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "VIT Vellore",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2016",
+            "endDate": "06/2020",
+            "description": "Specialized in web technologies and software engineering."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 85,
+        "experienceScore": 90,
+        "locationScore": 100,
+        "roleSimilarity": 95,
+        "educationScore": 85,
+        "matchScore": 90
+      },
+      {
+        "jobRole": "DevOps Engineer",
+        "jobDescription": "Manages CI/CD pipelines and cloud infrastructure.",
+        "jobSkills": ["Docker", "Kubernetes", "Jenkins", "AWS", "CI/CD", "DevOps"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Remote",
+        "minSalary": 1500000,
+        "maxSalary": 2000000,
+        "resumeTitle": "Arjun",
+        "resumeSummary": "DevOps professional specializing in cloud infrastructure.",
+        "resumeSkills": ["Docker", "AWS", "CI/CD", "DevOps"],
+        "resumeExperience": [
+          {
+            "role": "DevOps Engineer",
+            "company": "CloudTech",
+            "startDate": "01/2019",
+            "endDate": "Present",
+            "description": "Managing cloud infrastructure and deployment pipelines."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "NIT Trichy",
+            "degree": "M.Tech Cloud Computing",
+            "startDate": "07/2017",
+            "endDate": "06/2019",
+            "description": "Focus on cloud technologies and DevOps practices."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 70,
+        "experienceScore": 60,
+        "locationScore": 100,
+        "roleSimilarity": 85,
+        "educationScore": 90,
+        "matchScore": 77
+      },
+      {
+        "jobRole": "Data Scientist",
+        "jobDescription": "Analyzes complex data sets to drive business decisions.",
+        "jobSkills": ["Python", "R", "Machine Learning", "Deep Learning", "Data Science"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Onsite, India, Pune",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Arun",
+        "resumeSummary": "Data scientist with strong background in machine learning.",
+        "resumeSkills": ["Python", "Machine Learning", "Data Science"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "IIT Madras",
+            "degree": "M.Tech Data Science",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Specializing in machine learning and data analytics."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 60,
+        "experienceScore": 0,
+        "locationScore": 70,
+        "roleSimilarity": 75,
+        "educationScore": 90,
+        "matchScore": 55
+      },
+      {
+        "jobRole": "Frontend Developer",
+        "jobDescription": "Creates responsive and interactive user interfaces.",
+        "jobSkills": ["JavaScript", "React.js", "HTML", "CSS", "TypeScript", "SASS"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Onsite, India, Chennai",
+        "minSalary": 400000,
+        "maxSalary": 600000,
+        "resumeTitle": "Meera",
+        "resumeSummary": "Fresh graduate with internship experience in web development.",
+        "resumeSkills": ["HTML", "CSS", "JavaScript"],
+        "resumeExperience": [
+          {
+            "role": "Web Development Intern",
+            "company": "TechStart",
+            "startDate": "01/2024",
+            "endDate": "Present",
+            "description": "Creating responsive web pages and UI components."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "SRM University",
+            "degree": "B.Tech Information Technology",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Focus on web technologies and programming."
+          }
+        ],
+        "resumeLocation": "Chennai, India",
+        "skillsScore": 50,
+        "experienceScore": 60,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 75,
+        "matchScore": 68
+      },
+      {
+        "jobRole": "Mobile Developer",
+        "jobDescription": "Develops native mobile applications for iOS and Android.",
+        "jobSkills": ["Swift", "Kotlin", "React.js", "Firebase"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 900000,
+        "maxSalary": 1400000,
+        "resumeTitle": "Vikram",
+        "resumeSummary": "Mobile app developer with cross-platform experience.",
+        "resumeSkills": ["Swift", "Firebase"],
+        "resumeExperience": [
+          {
+            "role": "iOS Developer",
+            "company": "AppTech",
+            "startDate": "07/2022",
+            "endDate": "Present",
+            "description": "Developing iOS applications using Swift."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Manipal Institute of Technology",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2018",
+            "endDate": "06/2022",
+            "description": "Mobile app development specialization."
+          }
+        ],
+        "resumeLocation": "Bangalore, India",
+        "skillsScore": 50,
+        "experienceScore": 70,
+        "locationScore": 100,
+        "roleSimilarity": 80,
+        "educationScore": 80,
+        "matchScore": 72
+      },
+      {
+        "jobRole": "Java Developer",
+        "jobDescription": "Develops enterprise applications using Java technologies.",
+        "jobSkills": ["Java", "Spring", "SQL", "MySQL"],
+        "requiredExperience": "5-7 years",
+        "jobLocation": "Onsite, India, Hyderabad",
+        "minSalary": 1200000,
+        "maxSalary": 1800000,
+        "resumeTitle": "Ramesh",
+        "resumeSummary": "Backend developer with Java expertise.",
+        "resumeSkills": ["Python", "SQL"],
+        "resumeExperience": [
+          {
+            "role": "Python Developer",
+            "company": "DataTech",
+            "startDate": "01/2020",
+            "endDate": "Present",
+            "description": "Building data processing applications."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIIT Hyderabad",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2016",
+            "endDate": "06/2020",
+            "description": "Core computer science fundamentals."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 25,
+        "experienceScore": 70,
+        "locationScore": 50,
+        "roleSimilarity": 60,
+        "educationScore": 80,
+        "matchScore": 54
+      },
+      {
+        "jobRole": "Blockchain Developer",
+        "jobDescription": "Develops decentralized applications and smart contracts.",
+        "jobSkills": ["Blockchain", "Solidity", "JavaScript", "Node.js"],
+        "requiredExperience": "2-4 years",
+        "jobLocation": "Remote",
+        "minSalary": 1000000,
+        "maxSalary": 1500000,
+        "resumeTitle": "Sandeep",
+        "resumeSummary": "Web developer transitioning to blockchain.",
+        "resumeSkills": ["JavaScript", "Node.js"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "BITS Pilani",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Focus on distributed systems."
+          }
+        ],
+        "resumeLocation": "Pune, India",
+        "skillsScore": 50,
+        "experienceScore": 0,
+        "locationScore": 100,
+        "roleSimilarity": 60,
+        "educationScore": 75,
+        "matchScore": 52
+      },
+      {
+        "jobRole": "UI/UX Designer",
+        "jobDescription": "Creates user-centered designs and prototypes.",
+        "jobSkills": ["Figma", "Adobe XD", "UI/UX", "Photoshop", "Illustrator"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Onsite, India, Bangalore",
+        "minSalary": 500000,
+        "maxSalary": 700000,
+        "resumeTitle": "Kavya",
+        "resumeSummary": "Fresh graduate with passion for design.",
+        "resumeSkills": ["Photoshop"],
+        "resumeExperience": null,
+        "resumeEducation": [
+          {
+            "school": "DSK International School of Design",
+            "degree": "B.Des UI/UX Design",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Focus on user interface design."
+          }
+        ],
+        "resumeLocation": "Delhi, India",
+        "skillsScore": 20,
+        "experienceScore": 0,
+        "locationScore": 50,
+        "roleSimilarity": 70,
+        "educationScore": 90,
+        "matchScore": 42
+      },
+      {
+        "jobRole": "Cloud Architect",
+        "jobDescription": "Designs and implements cloud infrastructure solutions.",
+        "jobSkills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+        "requiredExperience": "8+ years",
+        "jobLocation": "Remote",
+        "minSalary": 2500000,
+        "maxSalary": 3500000,
+        "resumeTitle": "Rahul",
+        "resumeSummary": "Junior cloud engineer looking to grow.",
+        "resumeSkills": ["AWS", "Docker"],
+        "resumeExperience": [
+          {
+            "role": "Cloud Engineer",
+            "company": "TechCloud",
+            "startDate": "01/2023",
+            "endDate": "Present",
+            "description": "Managing AWS infrastructure."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "IIT Kharagpur",
+            "degree": "B.Tech Computer Science",
+            "startDate": "07/2019",
+            "endDate": "06/2023",
+            "description": "Cloud computing specialization."
+          }
+        ],
+        "resumeLocation": "Kolkata, India",
+        "skillsScore": 40,
+        "experienceScore": 20,
+        "locationScore": 100,
+        "roleSimilarity": 70,
+        "educationScore": 80,
+        "matchScore": 48
+      },
+      {
+        "jobRole": "Game Developer",
+        "jobDescription": "Creates interactive gaming experiences.",
+        "jobSkills": ["Unity", "C++", "3D Modeling", "Game Development"],
+        "requiredExperience": "0-1 years",
+        "jobLocation": "Onsite, India, Mumbai",
+        "minSalary": 400000,
+        "maxSalary": 600000,
+        "resumeTitle": "Akash",
+        "resumeSummary": "Passionate game developer with Unity projects.",
+        "resumeSkills": ["Unity", "C++", "3D Modeling"],
+        "resumeExperience": [
+          {
+            "role": "Game Development Intern",
+            "company": "GameStudio",
+            "startDate": "06/2023",
+            "endDate": "Present",
+            "description": "Developing game mechanics and features."
+          }
+        ],
+        "resumeEducation": [
+          {
+            "school": "Symbiosis Institute of Technology",
+            "degree": "B.Tech Game Development",
+            "startDate": "07/2020",
+            "endDate": "06/2024",
+            "description": "Specialized in game development and design."
+          }
+        ],
+        "resumeLocation": "Mumbai, India",
+        "skillsScore": 75,
+        "experienceScore": 60,
+        "locationScore": 100,
+        "roleSimilarity": 90,
+        "educationScore": 90,
+        "matchScore": 81
+      }
+              ]
+  
