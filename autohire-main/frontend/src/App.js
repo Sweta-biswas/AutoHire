@@ -9,6 +9,7 @@ import EmployerSignupForm from './pages/PostJobPage';
 import JobDetailsForm from './pages/JobDetailsPage';
 import JobListingPage from './pages/JobListingPage';
 import ResumeBuilder from './pages/ResumeBuilder';
+import EmployerDashboard from './pages/EmployerDashboard';
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
           <Route path="/job-details" element={<JobDetailsForm />} />
           <Route path="/job-listings" element={<JobListingPage />} /> {/* New Route */}
           <Route path="/resume-builder" element={<ResumeBuilder />} /> {/* New Route */}
+          <Route path="/employer-dashboard" element={<EmployerDashboard />} />
         </Routes>
         
       </div>

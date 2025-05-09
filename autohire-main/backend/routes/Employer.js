@@ -230,7 +230,7 @@ router.post('/jobpost', authMiddleware, async (req, res) => {
     fs.writeFileSync(inputFilePath, JSON.stringify(inputData));
 
 
-    const pythonExecutable = process.env.PYTHON_EXECUTABLE || 'python3'; // Allow configuring python path
+    const pythonExecutable = process.env.PYTHON_EXECUTABLE || 'python'; // Allow configuring python path
     const scriptPath = path.join(__dirname, '../services/app.py');
     const pythonProcess = spawn(pythonExecutable, [scriptPath, inputFilePath]);
 
@@ -419,7 +419,71 @@ router.get(
   }
 );
 
+// Get all jobs posted by the logged-in employer
+router.get('/jobs', authMiddleware, async (req, res) => {
+  try {
+    // Find all job posts by the logged-in employer
+    const jobPosts = await JobPost.find({ employer: req.user.id })
+      .sort({ _id: -1 }) // Sort by newest first
+      .lean(); // Use lean for better performance
 
+    // Get the applicants for each job
+    const jobsWithApplicants = await Promise.all(
+      jobPosts.map(async (job) => {
+        // Find all applications for this job
+        const applications = await JobApplication.find({ jobPost: job._id })
+          .populate({
+            path: 'jobApplicant',
+            select: 'fullName email resume.personal.phone resume.personal.email'
+          })
+          .lean();
 
+        // Return job with its applications
+        return {
+          ...job,
+          applicants: applications.map(app => ({
+            _id: app.jobApplicant._id,
+            fullName: app.jobApplicant.fullName,
+            email: app.jobApplicant.email,
+            phone: app.jobApplicant.resume?.personal?.phone || 'Not provided',
+            matchScore: app.matchScore,
+            applicationDate: app.applicationDate
+          })),
+          applicantCount: applications.length
+        };
+      })
+    );
+
+    res.status(200).json(jobsWithApplicants);
+  } catch (error) {
+    console.error('Error fetching employer jobs:', error);
+    res.status(500).json({ message: 'Failed to fetch job posts', error: error.message });
+  }
+});
+
+// Delete a job post
+router.delete('/jobs/:id', authMiddleware, async (req, res) => {
+  try {
+    const { id } = req.params;
+    
+    // First check if the job post exists and belongs to this employer
+    const jobPost = await JobPost.findOne({ _id: id, employer: req.user.id });
+    
+    if (!jobPost) {
+      return res.status(404).json({ message: 'Job post not found or you do not have permission to delete it' });
+    }
+    
+    // Delete all applications for this job post first
+    await JobApplication.deleteMany({ jobPost: id });
+    
+    // Then delete the job post
+    await JobPost.findByIdAndDelete(id);
+    
+    res.status(200).json({ message: 'Job post deleted successfully' });
+  } catch (error) {
+    console.error('Error deleting job post:', error);
+    res.status(500).json({ message: 'Failed to delete job post', error: error.message });
+  }
+});
 
 module.exports = router;

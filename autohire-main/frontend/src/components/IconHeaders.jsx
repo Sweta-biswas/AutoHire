@@ -9,7 +9,7 @@ const IconHeader = () => {
   };
 
   return (
-    <header className="w-full bg-white p-4">
+    <header className="w-full bg-custom-gradient p-4">
       <div className="container mx-auto flex justify-between items-center">
         <h1
           className="text-2xl font-bold text-[#515cb1] cursor-pointer"
